@@ -1,0 +1,102 @@
+StoreID,StoreName,City,Region,StoreType,OpenDate
+S001,Ahmedabad Store 01,Ahmedabad,West,Mall,2019-05-10
+S002,Ahmedabad Store 02,Ahmedabad,West,Drive Through,2018-03-26
+S003,Bengaluru Store 03,Bengaluru,South,Drive Through,2022-04-18
+S004,Gurugram Store 04,Gurugram,North,Drive Through,2022-09-04
+S005,Jaipur Store 05,Jaipur,North,High Street,2023-04-16
+S006,Gurugram Store 06,Gurugram,North,Drive Through,2024-07-04
+S007,Pune Store 07, Delhi ,West,Mall,2021-05-28
+S008,Noida Store 08,Noida,North,Transit,2023-09-04
+S009,Chennai Store 09,Chennai,South,Transit,2022-11-26
+S010,Gurugram Store 10,Gurugram,North,Drive Through,2019-11-24
+S011,Bengaluru Store 11,Bengaluru,South,Transit,2023-10-14
+S012,Bengaluru Store 12,Bengaluru,South,Drive Through,2018-05-14
+S013,Kolkata Store 13,Kolkata,East,High Street,2022-02-06
+S014,Kolkata Store 14,Kolkata,East,Drive Through,2024-06-08
+S015,Jaipur Store 15,Jaipur,,Transit,2022-07-06
+S016,Hyderabad Store 16,Hyderabad,South,High Street,2024-05-31
+S017,Noida Store 17,Noida,North,High Street,2018-05-21
+S018,Hyderabad Store 18,Hyderabad,South,Mall,2021-08-24
+S019,Kolkata Store 19,Kolkata,East,Transit,2023-05-06
+S020,Kochi Store 20,Kochi,South,Drive Through,2022-05-25
+S021,Kolkata Store 21,Kolkata,East,Transit,
+S022,Jaipur Store 22,Jaipur,North,Transit,2021-03-02
+S023,Noida Store 23,Noida,North,Drive Through,2022-09-03
+S024,Kochi Store 24,Kochi,South,Drive Through,2020-11-15
+S025,Pune Store 25,Pune,West,Mall,2023-12-21
+S026,Pune Store 26,Pune,West,High Street,2018-10-26
+S027,Bengaluru Store 27,Bengaluru,South,Mall,2019-09-28
+S028,Kolkata Store 28,Kolkata,East,Drive Through,2018-08-30
+S029,Kochi Store 29,Kochi,South,High Street,2022-10-22
+S030,Pune Store 30,Pune,West,High Street,2019-08-05
+S031,Chennai Store 31,Chennai,South,High Street,2020-03-03
+S032,Delhi Store 32,Delhi,North,Drive Through,2023-09-23
+S033,Chennai Store 33,Chennai,South,Transit,2020-06-19
+S034,Bengaluru Store 34,Bengaluru,South,Transit,2018-12-31
+S035,Kochi Store 35,Kochi,South,Mall,2018-02-22
+S036,Kolkata Store 36,Kolkata,East,Drive Through,2019-07-21
+S037,Delhi Store 37,Delhi,North,Transit,2024-04-05
+S038,Mumbai Store 38,Mumbai,West,Drive Through,2021-10-03
+S039,Noida Store 39,Noida,North,Mall,2024-10-23
+S040,Kochi Store 40,Kochi,South,Mall,2019-06-22
+S041,Gurugram Store 41,Gurugram,North,Drive Through,2020-05-28
+S042,Delhi Store 42,Delhi,North,Mall,2019-02-13
+S043,Delhi Store 43,Delhi,North,Transit,2020-09-22
+S044,Bengaluru Store 44,Bengaluru,South,Transit,2021-11-09
+S045,Gurugram Store 45,Gurugram,North,High Street,2023-07-14
+S046,Gurugram Store 46,Gurugram,North,Drive Through,2020-07-09
+S047,Noida Store 47,Noida,North,Mall,2023-04-13
+S048,Delhi Store 48,Delhi,North,Drive Through,2022-04-15
+S049,Delhi Store 49,Delhi,North,Mall,2019-12-31
+S050,Noida Store 50,Noida,North,Mall,2024-03-30
+S051,Kochi Store 51,Kochi,South,Mall,2020-12-21
+S052,Jaipur Store 52,Jaipur,North,High Street,2019-01-13
+S053,Delhi Store 53,Delhi,North,Transit,2024-08-03
+S054,Mumbai Store 54,Mumbai,West,High Street,2024-04-02
+S055,Mumbai Store 55,Mumbai,West,Mall,2018-05-04
+S056,Jaipur Store 56,Jaipur,North,High Street,2024-03-06
+S057,Noida Store 57,Noida,North,High Street,2024-06-26
+S058,Ahmedabad Store 58,Ahmedabad,West,Mall,2023-09-04
+S059,Hyderabad Store 59,Hyderabad,South,Transit,2019-09-30
+S060,Gurugram Store 60,Gurugram,North,Transit,2022-04-28
+S061,Mumbai Store 61,Mumbai,West,Mall,2021-09-07
+S062,Gurugram Store 62,Gurugram,North,Drive Through,2022-03-31
+S063,Noida Store 63,Noida,North,Transit,2022-03-22
+S064,Jaipur Store 64,Jaipur,North,High Street,2022-05-18
+S065,Noida Store 65,Noida,North,Transit,2021-07-09
+S066,Ahmedabad Store 66,Ahmedabad,West,High Street,2022-09-23
+S067,Pune Store 67,Pune,West,High Street,2021-08-09
+S068,Hyderabad Store 68,Hyderabad,South,Mall,2018-02-11
+S069,Kochi Store 69,Kochi,South,High Street,2018-03-30
+S070,Jaipur Store 70,Jaipur,North,Transit,2024-07-23
+S071,Bengaluru Store 71,Bengaluru,South,Transit,2024-03-23
+S072,Kochi Store 72,Kochi,South,Mall,2022-01-04
+S073,Mumbai Store 73,Mumbai,West,Transit,2019-03-13
+S074,Ahmedabad Store 74,Ahmedabad,West,Transit,2023-05-08
+S075,Bengaluru Store 75,Bengaluru,South,Transit,2018-12-25
+S076,Ahmedabad Store 76,Ahmedabad,West,Transit,2020-08-01
+S077,Chennai Store 77,Chennai,South,Drive Through,2020-04-04
+S078,Pune Store 78,Pune,West,High Street,2018-01-31
+S079,Jaipur Store 79,Jaipur,North,Transit,2023-07-11
+S080,Gurugram Store 80,Gurugram,North,Drive Through,2021-06-28
+S081,Chennai Store 81,Chennai,South,Transit,2020-03-01
+S082,Kochi Store 82,Kochi,South,Transit,2021-06-21
+S083,Pune Store 83,Pune,West,High Street,2018-01-01
+S084,Delhi Store 84,Delhi,North,Mall,2020-12-28
+S085,Mumbai Store 85,Mumbai,West,High Street,2021-07-22
+S086,Bengaluru Store 86,Bengaluru,South,High Street,2020-04-29
+S087,Jaipur Store 87,Jaipur,North,Transit,2023-09-07
+S088,Kolkata Store 88,Kolkata,East,Transit,2019-09-17
+S089,Chennai Store 89,Chennai,South,Transit,2018-12-11
+S090,Pune Store 90,Pune,West,Transit,2021-08-11
+S091,Noida Store 91,Noida,North,Drive Through,2024-01-28
+S092,Kolkata Store 92,Kolkata,East,Drive Through,2020-07-27
+S093,Mumbai Store 93,Mumbai,West,Transit,2018-04-27
+S094,Mumbai Store 94,Mumbai,West,Drive Through,2024-08-21
+S095,Pune Store 95,Pune,West,Drive Through,2021-01-15
+S096,Chennai Store 96,Chennai,South,High Street,2019-03-09
+S097,Noida Store 97,Noida,North,Drive Through,2022-03-20
+S098,Kolkata Store 98,Kolkata,East,Transit,2020-03-10
+S099,Gurugram Store 99,Gurugram,North,Drive Through,2024-06-02
+S100,Ahmedabad Store 100,Ahmedabad,West,Mall,2020-01-05
+S003,Bengaluru Store 03,Bengaluru,South,Drive Through,2022-04-18

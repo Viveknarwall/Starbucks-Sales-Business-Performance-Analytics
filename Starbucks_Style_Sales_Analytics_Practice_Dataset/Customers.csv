@@ -1,0 +1,1002 @@
+CustomerID,CustomerName,City,Region,SignupDate,CustomerSegment
+C00001,Vihaan Sharma,Delhi,North,2025-06-08,Regular
+C00002,Diya Patel,Gurugram,North,2025-03-21,Loyalty Member
+C00003,Ananya Gupta,Ahmedabad,West,2024-09-06,Regular
+C00004,Vihaan Joshi,Pune,West,2025-09-02,Regular
+C00005,Aanya Verma, Mumbai ,West,2023-05-22,Loyalty Member
+C00006,Rohan Mehta,Noida,North,2025-10-10,Regular
+C00007,Vivaan Sharma,Delhi,North,2025-07-24,New
+C00008,Aditya Patel,Jaipur,North,2024-07-07,Regular
+C00009,Ananya Iyer,Bengaluru,South,2025-03-17,Loyalty Member
+C00010,Kavya Sharma,Delhi,North,2024-07-26,Loyalty Member
+C00011,Aanya Patel,Kolkata,East,2023-10-23,Loyalty Member
+C00012,Aanya Mehta,Kochi,South,2025-05-29,Loyalty Member
+C00013,Ananya Reddy,Jaipur,North,2023-09-28,Loyalty Member
+C00014,Rohan Singh,Gurugram,North,2023-12-12,New
+C00015,Aarav Das,Jaipur,North,2024-07-25,Regular
+C00016,Sai Malhotra,Gurugram,North,2025-07-10,Regular
+C00017,Kabir Kumar,Kolkata,East,2024-02-27,Loyalty Member
+C00018,  Diya Gupta ,Delhi,North,2024-06-27,New
+C00019,Ishaan Das,Noida,North,2023-02-15,Regular
+C00020,Myra Verma,Pune,West,2023-05-08,Regular
+C00021,Aditya Mehta,Kolkata,East,2023-03-03,New
+C00022,Vihaan Kumar,Chennai,South,2023-03-21,Loyalty Member
+C00023,Ira Nair,Bengaluru,South,2025-08-13,New
+C00024,Diya Das,Kochi,South,2025-07-15,Loyalty Member
+C00025,Vivaan Malhotra,Gurugram,North,2025-06-23,Loyalty Member
+C00026,Reyansh Iyer,Ahmedabad,West,2023-03-03,Regular
+C00027,Vihaan Mishra,Chennai,South,2023-03-27,New
+C00028,Riya Verma,Gurugram,North,2023-11-05,Regular
+C00029,Aanya Singh,Kolkata,East,2024-09-13,Loyalty Member
+C00030,Kavya Mishra,Pune,West,2024-01-03,Regular
+C00031,Ira Nair,Pune,West,2024-06-20,Loyalty Member
+C00032,Ishaan Malhotra,Bengaluru,,2023-07-10,Loyalty Member
+C00033,Aditya Sharma,Delhi,North,2025-03-14,Loyalty Member
+C00034,Ananya Das,Kolkata,East,2023-12-12,New
+C00035,Aadhya Verma,Noida,North,2023-03-15,Regular
+C00036,Ananya Kapoor,Mumbai,West,2025-03-27,Loyalty Member
+C00037,Vihaan Mehta,Noida,North,2025-09-20,Regular
+C00038,Diya Reddy,Gurugram,North,2023-01-17,Regular
+C00039,Ira Gupta,Hyderabad,South,2024-04-25,Regular
+C00040,Ira Kumar,Ahmedabad,West,2025-06-28,Regular
+C00041,Ishaan Joshi,Delhi,North,2025-02-15,Regular
+C00042,Diya Malhotra,Gurugram,North,2025-07-31,Loyalty Member
+C00043,Aditya Nair,Jaipur,North,,Loyalty Member
+C00044,Sai Iyer,Chennai,South,2024-02-14,Loyalty Member
+C00045,Ananya Gupta,Mumbai,West,2025-02-19,Regular
+C00046,Reyansh Mehta,Kochi,South,2023-06-18,Regular
+C00047,Diya Mishra,Pune,West,2023-09-21,Regular
+C00048,Aanya Patel,Noida,North,2024-10-22,Loyalty Member
+C00049,Myra Kapoor,Jaipur,North,2025-01-05,New
+C00050,Vivaan Patel,Gurugram,North,2023-05-12,Regular
+C00051,Vivaan Das,Gurugram,North,2024-07-13,Loyalty Member
+C00052,Myra Mehta,Bengaluru,South,2024-02-06,Regular
+C00053,Diya Verma,Chennai,South,2024-07-05,Regular
+C00054,Ishaan Mishra,Pune,West,2025-11-20,Regular
+C00055,Rohan Mishra,Pune,West,2023-03-26,Regular
+C00056,Myra Patel,Mumbai,West,2025-12-31,Loyalty Member
+C00057,Meera Mehta,Kolkata,East,2024-05-09,New
+C00058,Reyansh Gupta,Delhi,North,2025-04-29,Regular
+C00059,Diya Gupta,Jaipur,North,2024-04-11,Loyalty Member
+C00060,Ananya Malhotra,Jaipur,North,2023-12-09,Loyalty Member
+C00061,Aanya Iyer,Kochi,South,2025-04-27,New
+C00062,Diya Malhotra,Jaipur,North,2025-01-26,Loyalty Member
+C00063,Rohan Mehta,Chennai,South,2023-06-08,Regular
+C00064,Rohan Mehta,Kochi,South,2025-02-14,Loyalty Member
+C00065,Ira Patel,Chennai,South,2025-04-08,Regular
+C00066,Arjun Iyer,Hyderabad,South,2024-03-02,New
+C00067,Meera Verma,Noida,North,2025-10-15,Regular
+C00068,Vivaan Kapoor,Chennai,South,2024-12-05,Loyalty Member
+C00069,Vihaan Gupta,Mumbai,West,2024-01-02,Regular
+C00070,Sai Das,Pune,West,2023-01-12,Regular
+C00071,Kabir Nair,Gurugram,North,2025-01-12,New
+C00072,Aditya Mehta,Bengaluru,South,2023-08-18,Loyalty Member
+C00073,Riya Nair,Pune,West,2025-04-12,Regular
+C00074,Reyansh Iyer,Delhi,North,2024-07-31,New
+C00075,Diya Iyer,Jaipur,North,2024-05-28,New
+C00076,Aarav Joshi,Pune,West,2023-06-30,Regular
+C00077,Vihaan Joshi,Hyderabad,South,2025-02-21,Loyalty Member
+C00078,Aanya Das,Bengaluru,South,2023-07-02,Loyalty Member
+C00079,Diya Das,Kolkata,East,2024-04-04,Loyalty Member
+C00080,Myra Verma,Jaipur,North,2025-07-08,Regular
+C00081,Aadhya Mehta,Kochi,South,2025-10-09,Regular
+C00082,Sai Reddy,Pune,West,2025-12-24,New
+C00083,Aarav Malhotra,Delhi,North,2025-11-19,New
+C00084,Diya Iyer,Gurugram,North,2024-09-03,New
+C00085,Sai Iyer,Ahmedabad,West,2023-08-09,New
+C00086,Vihaan Kapoor,Jaipur,North,2025-07-11,Loyalty Member
+C00087,Aadhya Kapoor,Delhi,North,2025-05-31,Loyalty Member
+C00088,Sara Nair,Hyderabad,South,2025-12-25,Loyalty Member
+C00089,Ishaan Gupta,Gurugram,North,2024-12-17,Loyalty Member
+C00090,Ira Das,Gurugram,North,2023-06-05,Loyalty Member
+C00091,Sai Iyer,Pune,West,2024-07-07,Regular
+C00092,Sara Mishra,Gurugram,North,2024-05-08,Loyalty Member
+C00093,Aarav Nair,Noida,North,2025-07-16,Regular
+C00094,Myra Reddy,Chennai,South,2024-03-07,Regular
+C00095,Aarav Verma,Noida,North,2023-12-28,Loyalty Member
+C00096,Ira Mishra,Hyderabad,South,2023-03-30,Regular
+C00097,Aadhya Patel,Bengaluru,South,2025-07-08,Regular
+C00098,Vivaan Patel,Jaipur,North,2025-04-10,New
+C00099,Rohan Verma,Ahmedabad,West,2023-02-15,New
+C00100,Aditya Malhotra,Delhi,North,2024-04-22,Regular
+C00101,Meera Kapoor,Gurugram,North,2024-06-11,Regular
+C00102,Aditya Das,Bengaluru,South,2024-05-31,Regular
+C00103,Aanya Das,Gurugram,North,2025-10-07,Loyalty Member
+C00104,Arjun Gupta,Mumbai,West,2023-06-15,New
+C00105,Meera Iyer,Gurugram,North,2023-12-03,Regular
+C00106,Sai Singh,Gurugram,North,2023-07-19,Loyalty Member
+C00107,Sara Kapoor,Gurugram,North,2023-09-26,Regular
+C00108,Kavya Mehta,Ahmedabad,West,2025-09-24,Regular
+C00109,Ishaan Mishra,Pune,West,2025-10-31,New
+C00110,Aanya Das,Jaipur,North,2023-02-19,Regular
+C00111,Ishaan Malhotra,Hyderabad,South,2024-11-26,Regular
+C00112,Aadhya Mehta,Gurugram,North,2023-09-14,Regular
+C00113,Ira Reddy,Kolkata,East,2023-07-31,Loyalty Member
+C00114,Sara Reddy,Pune,West,2023-11-18,New
+C00115,Vihaan Patel,Kolkata,East,2023-08-02,New
+C00116,Ananya Verma,Kolkata,East,2024-06-23,Regular
+C00117,Myra Sharma,Mumbai,West,2025-12-31,Regular
+C00118,Rohan Iyer,Delhi,North,2024-10-07,Loyalty Member
+C00119,Ananya Nair,Bengaluru,South,2025-03-06,Regular
+C00120,Ananya Sharma,Delhi,North,2024-06-26,New
+C00121,Aditya Malhotra,Pune,West,2023-01-16,Loyalty Member
+C00122,Vivaan Patel,Jaipur,North,2023-04-03,Regular
+C00123,Aditya Mishra,Ahmedabad,West,2023-10-23,New
+C00124,Vivaan Kapoor,Pune,West,2023-09-26,Regular
+C00125,Myra Verma,Noida,North,2025-07-13,Regular
+C00126,Sara Patel,Kolkata,East,2025-07-16,Loyalty Member
+C00127,Diya Joshi,Mumbai,West,2025-07-28,Loyalty Member
+C00128,Meera Patel,Gurugram,North,2024-12-02,Loyalty Member
+C00129,Aanya Gupta,Kolkata,East,2024-09-03,Loyalty Member
+C00130,Rohan Nair,Ahmedabad,West,2024-12-15,New
+C00131,Meera Patel,Kolkata,East,2024-03-23,New
+C00132,Meera Das,Kolkata,East,2025-01-07,Loyalty Member
+C00133,Kabir Patel,Delhi,North,2025-05-23,Regular
+C00134,Vihaan Verma,Kolkata,East,2025-04-19,Loyalty Member
+C00135,Kabir Kumar,Gurugram,North,2024-11-06,New
+C00136,Kabir Mehta,Hyderabad,South,2023-03-05,Regular
+C00137,Reyansh Kapoor,Ahmedabad,West,2025-03-08,Loyalty Member
+C00138,Vivaan Joshi,Mumbai,West,2024-02-08,Regular
+C00139,Vihaan Sharma,Chennai,South,2025-03-29,Regular
+C00140,Riya Malhotra,Pune,West,2024-08-16,Loyalty Member
+C00141,Myra Das,Kochi,South,2025-08-27,Regular
+C00142,Vihaan Patel,Bengaluru,South,2024-01-08,Loyalty Member
+C00143,Ishaan Patel,Hyderabad,South,2025-10-21,New
+C00144,Aanya Reddy,Chennai,South,2025-07-17,New
+C00145,Arjun Mehta,Kochi,South,2023-12-31,Regular
+C00146,Sai Singh,Noida,North,2024-06-14,Regular
+C00147,Reyansh Patel,Mumbai,West,2024-08-07,Loyalty Member
+C00148,Aditya Reddy,Bengaluru,South,2025-04-25,New
+C00149,Aanya Verma,Gurugram,North,2025-01-28,Loyalty Member
+C00150,Vivaan Joshi,Mumbai,West,2025-07-26,New
+C00151,Aanya Kapoor,Noida,North,2024-02-11,Regular
+C00152,Aarav Verma,Hyderabad,South,2024-07-09,New
+C00153,Ananya Gupta,Kochi,South,2024-04-18,Regular
+C00154,Kabir Reddy,Hyderabad,South,2025-09-27,Regular
+C00155,Meera Patel,Pune,West,2023-12-02,Loyalty Member
+C00156,Riya Mishra,Ahmedabad,West,2024-10-07,Regular
+C00157,Vivaan Gupta,Delhi,North,2023-05-13,Regular
+C00158,Riya Sharma,Kolkata,East,2025-07-24,Regular
+C00159,Riya Singh,Kolkata,East,2024-02-27,Regular
+C00160,Reyansh Singh,Gurugram,North,2024-01-10,Loyalty Member
+C00161,Kabir Malhotra,Kochi,South,2024-10-03,Regular
+C00162,Aanya Joshi,Ahmedabad,West,2024-07-02,Loyalty Member
+C00163,Meera Gupta,Chennai,South,2025-07-21,New
+C00164,Ishaan Singh,Chennai,South,2024-08-07,Regular
+C00165,Ishaan Sharma,Pune,West,2024-07-22,Regular
+C00166,Rohan Malhotra,Gurugram,North,2023-04-26,New
+C00167,Aanya Sharma,Hyderabad,South,2023-01-25,New
+C00168,Myra Sharma,Bengaluru,South,2024-03-14,Loyalty Member
+C00169,Vivaan Nair,Chennai,South,2026-01-03,New
+C00170,Meera Iyer,Mumbai,West,2025-10-06,Regular
+C00171,Sara Gupta,Delhi,North,2024-11-22,Regular
+C00172,Vivaan Iyer,Delhi,North,2024-11-24,Loyalty Member
+C00173,Aditya Kapoor,Gurugram,North,2024-03-06,Regular
+C00174,Sai Verma,Jaipur,North,2023-07-15,Loyalty Member
+C00175,Kavya Verma,Jaipur,North,2023-01-10,Loyalty Member
+C00176,Ananya Mehta,Pune,West,2024-01-08,Loyalty Member
+C00177,Vihaan Mishra,Jaipur,North,2023-12-15,Loyalty Member
+C00178,Rohan Patel,Delhi,North,2023-07-30,Regular
+C00179,Rohan Nair,Noida,North,2023-10-13,Regular
+C00180,Vivaan Nair,Kolkata,East,2023-01-28,Regular
+C00181,Aditya Mehta,Kochi,South,2024-10-30,Loyalty Member
+C00182,Rohan Nair,Delhi,North,2025-10-17,Regular
+C00183,Sara Kumar,Pune,West,2025-01-29,Regular
+C00184,Diya Patel,Jaipur,North,2024-05-08,Regular
+C00185,Myra Patel,Pune,West,2024-04-07,Regular
+C00186,Diya Mehta,Pune,West,2023-12-05,New
+C00187,Arjun Joshi,Delhi,North,2023-06-06,Regular
+C00188,Aadhya Reddy,Chennai,South,2024-10-20,New
+C00189,Myra Mishra,Bengaluru,South,2024-09-15,Regular
+C00190,Aditya Sharma,Hyderabad,South,2023-01-09,Loyalty Member
+C00191,Reyansh Nair,Jaipur,North,2024-04-02,Regular
+C00192,Rohan Verma,Ahmedabad,West,2023-11-02,Regular
+C00193,Aditya Iyer,Ahmedabad,West,2023-07-07,New
+C00194,Ishaan Iyer,Chennai,South,2025-02-12,New
+C00195,Diya Gupta,Kochi,South,2024-08-01,New
+C00196,Ira Mishra,Delhi,North,2024-11-28,Regular
+C00197,Aditya Mishra,Chennai,South,2025-02-23,Regular
+C00198,Ananya Kumar,Delhi,North,2025-12-15,Loyalty Member
+C00199,Aadhya Gupta,Chennai,South,2025-06-02,Regular
+C00200,Reyansh Kapoor,Kochi,South,2024-11-13,Loyalty Member
+C00201,Aanya Malhotra,Chennai,South,2025-08-24,Loyalty Member
+C00202,Aadhya Nair,Noida,North,2024-06-09,Loyalty Member
+C00203,Sara Sharma,Pune,West,2025-12-19,New
+C00204,Aanya Singh,Jaipur,North,2025-04-17,Loyalty Member
+C00205,Vihaan Mishra,Pune,West,2024-12-16,Regular
+C00206,Arjun Singh,Hyderabad,South,2025-09-20,Regular
+C00207,Vihaan Mishra,Gurugram,North,2024-07-20,Loyalty Member
+C00208,Vihaan Malhotra,Kochi,South,2025-03-03,Loyalty Member
+C00209,Aanya Gupta,Hyderabad,South,2023-11-10,Regular
+C00210,Diya Singh,Gurugram,North,2025-11-25,Regular
+C00211,Kavya Patel,Hyderabad,South,2024-11-16,Loyalty Member
+C00212,Myra Patel,Jaipur,North,2025-05-10,New
+C00213,Diya Iyer,Gurugram,North,2024-05-21,Loyalty Member
+C00214,Meera Singh,Pune,West,2025-08-11,Regular
+C00215,Vivaan Verma,Jaipur,North,2023-03-23,Regular
+C00216,Kabir Kapoor,Hyderabad,South,2023-05-06,Loyalty Member
+C00217,Diya Sharma,Mumbai,West,2024-07-11,Regular
+C00218,Aarav Kumar,Delhi,North,2025-03-16,Loyalty Member
+C00219,Arjun Joshi,Pune,West,2025-06-09,Loyalty Member
+C00220,Diya Gupta,Noida,North,2024-04-29,Regular
+C00221,Reyansh Iyer,Delhi,North,2024-12-15,Regular
+C00222,Kabir Iyer,Pune,West,2024-08-31,Regular
+C00223,Aarav Verma,Jaipur,North,2025-11-23,New
+C00224,Aditya Mishra,Bengaluru,South,2024-12-20,Loyalty Member
+C00225,Arjun Iyer,Jaipur,North,2024-04-03,Regular
+C00226,Vivaan Kapoor,Hyderabad,South,2025-12-02,New
+C00227,Ira Nair,Gurugram,North,2023-04-28,Loyalty Member
+C00228,Aanya Gupta,Kolkata,East,2025-12-19,Loyalty Member
+C00229,Kabir Gupta,Kolkata,East,2023-06-19,New
+C00230,Vivaan Singh,Bengaluru,South,2023-11-14,Regular
+C00231,Ira Mishra,Pune,West,2025-06-22,Regular
+C00232,Vivaan Mishra,Noida,North,2025-03-18,Loyalty Member
+C00233,Ira Patel,Mumbai,West,2025-12-03,Regular
+C00234,Ananya Joshi,Gurugram,North,2025-04-04,Loyalty Member
+C00235,Vihaan Kumar,Pune,West,2024-12-01,Regular
+C00236,Aanya Mishra,Jaipur,North,2024-01-17,Regular
+C00237,Kabir Nair,Ahmedabad,West,2023-01-06,Regular
+C00238,Arjun Mishra,Pune,West,2023-05-17,Regular
+C00239,Ananya Kapoor,Hyderabad,South,2023-11-24,Regular
+C00240,Sai Das,Ahmedabad,West,2023-02-15,Regular
+C00241,Sai Mishra,Delhi,North,2024-07-12,New
+C00242,Kabir Sharma,Ahmedabad,West,2025-05-05,Regular
+C00243,Sai Malhotra,Delhi,North,2025-11-25,Regular
+C00244,Myra Das,Ahmedabad,West,2024-06-22,Regular
+C00245,Kabir Das,Ahmedabad,West,2025-08-20,Regular
+C00246,Ananya Singh,Delhi,North,2025-12-20,Regular
+C00247,Sai Das,Gurugram,North,2025-08-03,Loyalty Member
+C00248,Vihaan Mehta,Chennai,South,2024-05-26,Regular
+C00249,Vivaan Kapoor,Gurugram,North,2023-12-24,New
+C00250,Meera Patel,Mumbai,West,2025-12-11,New
+C00251,Ishaan Kapoor,Bengaluru,South,2023-09-24,Regular
+C00252,Reyansh Kumar,Pune,West,2024-03-28,Regular
+C00253,Aadhya Kapoor,Bengaluru,South,2023-03-23,Regular
+C00254,Ananya Patel,Hyderabad,South,2025-05-23,Loyalty Member
+C00255,Aarav Joshi,Ahmedabad,West,2024-12-15,Regular
+C00256,Ishaan Mehta,Delhi,North,2023-04-04,New
+C00257,Myra Singh,Jaipur,North,2023-09-02,Loyalty Member
+C00258,Aditya Das,Delhi,North,2024-09-03,New
+C00259,Diya Kumar,Bengaluru,South,2024-08-17,Loyalty Member
+C00260,Sara Mehta,Ahmedabad,West,2025-06-01,New
+C00261,Aanya Kumar,Gurugram,North,2023-10-20,Regular
+C00262,Aarav Verma,Bengaluru,South,2025-10-14,Regular
+C00263,Diya Gupta,Hyderabad,South,2024-05-03,Regular
+C00264,Rohan Singh,Kochi,South,2025-06-23,New
+C00265,Vivaan Verma,Kochi,South,2023-09-20,Loyalty Member
+C00266,Kavya Mehta,Kolkata,East,2023-02-10,New
+C00267,Ira Malhotra,Pune,West,2023-03-02,Regular
+C00268,Myra Mehta,Chennai,South,2024-02-14,New
+C00269,Kavya Iyer,Ahmedabad,West,2025-11-14,Loyalty Member
+C00270,Vihaan Mehta,Ahmedabad,West,2023-02-23,Loyalty Member
+C00271,Rohan Patel,Hyderabad,South,2024-02-10,New
+C00272,Diya Sharma,Mumbai,West,2023-05-01,Regular
+C00273,Kabir Sharma,Delhi,North,2025-10-21,Regular
+C00274,Sara Mishra,Kochi,South,2025-01-12,Loyalty Member
+C00275,Aanya Joshi,Pune,West,2025-04-18,Regular
+C00276,Ishaan Kumar,Pune,West,2025-02-23,Regular
+C00277,Kabir Verma,Pune,West,2024-12-23,Regular
+C00278,Myra Nair,Gurugram,North,2025-05-01,Regular
+C00279,Myra Joshi,Mumbai,West,2023-01-09,New
+C00280,Vihaan Malhotra,Mumbai,West,2025-08-10,Loyalty Member
+C00281,Aadhya Iyer,Hyderabad,South,2025-03-24,Regular
+C00282,Aadhya Joshi,Pune,West,2025-03-24,Regular
+C00283,Kabir Kumar,Jaipur,North,2024-03-08,Regular
+C00284,Riya Malhotra,Pune,West,2025-05-30,Loyalty Member
+C00285,Aadhya Iyer,Pune,West,2024-02-25,New
+C00286,Arjun Patel,Kochi,South,2023-02-23,New
+C00287,Kabir Joshi,Delhi,North,2025-09-25,Regular
+C00288,Riya Joshi,Kolkata,East,2023-09-15,Regular
+C00289,Sai Nair,Kolkata,East,2023-04-23,Loyalty Member
+C00290,Rohan Singh,Pune,West,2024-11-15,Loyalty Member
+C00291,Riya Iyer,Gurugram,North,2023-09-15,Loyalty Member
+C00292,Aarav Singh,Hyderabad,South,2025-08-01,Loyalty Member
+C00293,Aadhya Patel,Kochi,South,2024-05-03,Loyalty Member
+C00294,Kabir Das,Hyderabad,South,2023-01-05,Regular
+C00295,Rohan Nair,Kolkata,East,2025-11-12,Regular
+C00296,Myra Reddy,Kolkata,East,2024-07-20,Regular
+C00297,Reyansh Reddy,Noida,North,2023-10-17,Regular
+C00298,Ishaan Iyer,Pune,West,2025-01-15,Regular
+C00299,Meera Das,Hyderabad,South,2024-08-06,Loyalty Member
+C00300,Sai Joshi,Mumbai,West,2023-02-02,Regular
+C00301,Aditya Singh,Chennai,South,2025-04-15,Regular
+C00302,Sara Joshi,Gurugram,North,2024-03-17,Loyalty Member
+C00303,Kavya Kumar,Mumbai,West,2025-02-08,Loyalty Member
+C00304,Aditya Kapoor,Noida,North,2025-09-12,Regular
+C00305,Ananya Joshi,Kolkata,East,2024-11-02,New
+C00306,Aadhya Patel,Delhi,North,2025-01-08,New
+C00307,Ishaan Gupta,Hyderabad,South,2023-10-08,Loyalty Member
+C00308,Aarav Sharma,Kolkata,East,2023-09-19,Loyalty Member
+C00309,Ananya Reddy,Hyderabad,South,2024-04-01,Regular
+C00310,Kavya Kapoor,Delhi,North,2025-07-27,New
+C00311,Aditya Reddy,Ahmedabad,West,2024-07-30,Regular
+C00312,Kabir Mishra,Jaipur,North,2024-01-18,New
+C00313,Rohan Patel,Delhi,North,2025-05-07,Loyalty Member
+C00314,Riya Reddy,Hyderabad,South,2025-07-27,Regular
+C00315,Riya Patel,Bengaluru,South,2025-09-19,Regular
+C00316,Arjun Joshi,Ahmedabad,West,2023-11-25,Loyalty Member
+C00317,Aarav Mishra,Jaipur,North,2025-02-19,Loyalty Member
+C00318,Vihaan Das,Jaipur,North,2024-10-11,Regular
+C00319,Kabir Patel,Kochi,South,2024-05-08,Loyalty Member
+C00320,Sai Das,Gurugram,North,2024-03-12,New
+C00321,Sara Reddy,Hyderabad,South,2023-05-07,Loyalty Member
+C00322,Vivaan Iyer,Delhi,North,2023-10-30,Loyalty Member
+C00323,Ananya Mishra,Ahmedabad,West,2024-08-27,Regular
+C00324,Vihaan Reddy,Noida,North,2025-09-02,Loyalty Member
+C00325,Arjun Das,Kochi,South,2025-08-10,Regular
+C00326,Reyansh Joshi,Bengaluru,South,2023-07-26,New
+C00327,Sara Iyer,Bengaluru,South,2025-01-17,Regular
+C00328,Kavya Kumar,Mumbai,West,2023-04-04,Loyalty Member
+C00329,Reyansh Nair,Delhi,North,2025-01-12,Regular
+C00330,Sara Mehta,Kolkata,East,2024-01-12,Regular
+C00331,Aanya Reddy,Kolkata,East,2024-05-09,Loyalty Member
+C00332,Sai Malhotra,Chennai,South,2025-02-28,Loyalty Member
+C00333,Meera Reddy,Hyderabad,South,2024-04-12,Loyalty Member
+C00334,Diya Das,Gurugram,North,2025-06-07,New
+C00335,Ananya Kapoor,Pune,West,2024-08-09,New
+C00336,Diya Das,Gurugram,North,2026-01-03,New
+C00337,Sara Reddy,Kochi,South,2024-12-03,Regular
+C00338,Ananya Singh,Hyderabad,South,2023-11-22,Loyalty Member
+C00339,Reyansh Verma,Bengaluru,South,2025-05-02,New
+C00340,Aadhya Patel,Kochi,South,2024-03-24,Regular
+C00341,Diya Kumar,Ahmedabad,West,2024-08-10,Regular
+C00342,Myra Mishra,Hyderabad,South,2023-05-31,New
+C00343,Aanya Verma,Ahmedabad,West,2023-05-12,Loyalty Member
+C00344,Arjun Gupta,Kolkata,East,2024-09-24,Loyalty Member
+C00345,Ananya Mehta,Noida,North,2023-07-25,New
+C00346,Arjun Malhotra,Hyderabad,South,2026-01-02,Loyalty Member
+C00347,Ishaan Verma,Kochi,South,2025-07-30,Regular
+C00348,Kabir Mehta,Kochi,South,2025-02-09,Regular
+C00349,Myra Iyer,Bengaluru,South,2025-03-19,Regular
+C00350,Reyansh Mehta,Delhi,North,2024-10-16,Regular
+C00351,Vivaan Patel,Kolkata,East,2023-03-08,Loyalty Member
+C00352,Kabir Mehta,Mumbai,West,2024-03-07,New
+C00353,Rohan Malhotra,Hyderabad,South,2024-06-29,Regular
+C00354,Aarav Kapoor,Pune,West,2025-10-03,Regular
+C00355,Rohan Mehta,Kochi,South,2023-08-30,New
+C00356,Meera Sharma,Kochi,South,2024-06-30,Regular
+C00357,Ira Singh,Delhi,North,2024-01-14,Loyalty Member
+C00358,Riya Kapoor,Noida,North,2023-05-28,Loyalty Member
+C00359,Kabir Iyer,Delhi,North,2023-04-24,Loyalty Member
+C00360,Aanya Das,Jaipur,North,2024-02-06,Regular
+C00361,Kavya Mishra,Noida,North,2023-04-01,Loyalty Member
+C00362,Ananya Reddy,Noida,North,2023-03-15,Regular
+C00363,Ananya Singh,Bengaluru,South,2024-01-21,Loyalty Member
+C00364,Kabir Reddy,Noida,North,2023-08-11,Regular
+C00365,Aarav Mehta,Delhi,North,2024-09-02,Loyalty Member
+C00366,Myra Joshi,Kolkata,East,2023-01-20,Loyalty Member
+C00367,Riya Malhotra,Pune,West,2023-11-28,Regular
+C00368,Sai Kapoor,Hyderabad,South,2024-05-13,Regular
+C00369,Reyansh Mishra,Mumbai,West,2025-11-25,Regular
+C00370,Arjun Nair,Gurugram,North,2024-11-28,Regular
+C00371,Aanya Sharma,Chennai,South,2025-08-26,Regular
+C00372,Riya Nair,Ahmedabad,West,2024-01-13,New
+C00373,Rohan Joshi,Chennai,South,2024-05-09,Regular
+C00374,Aarav Verma,Chennai,South,2024-04-07,New
+C00375,Kabir Gupta,Noida,North,2025-09-03,New
+C00376,Reyansh Gupta,Delhi,North,2025-11-21,Regular
+C00377,Vivaan Singh,Jaipur,North,2025-11-24,Loyalty Member
+C00378,Riya Kumar,Jaipur,North,2025-04-07,New
+C00379,Ishaan Reddy,Chennai,South,2024-07-07,Loyalty Member
+C00380,Myra Kumar,Hyderabad,South,2024-08-17,Regular
+C00381,Riya Singh,Mumbai,West,2025-12-14,Regular
+C00382,Kabir Singh,Kochi,South,2023-11-09,Regular
+C00383,Aditya Reddy,Kochi,South,2024-01-17,Loyalty Member
+C00384,Aarav Malhotra,Bengaluru,South,2025-09-13,New
+C00385,Aanya Sharma,Mumbai,West,2024-02-29,New
+C00386,Ira Patel,Delhi,North,2023-09-16,Regular
+C00387,Aditya Das,Mumbai,West,2024-09-08,Loyalty Member
+C00388,Vivaan Das,Gurugram,North,2023-12-24,Regular
+C00389,Aarav Patel,Noida,North,2025-09-06,New
+C00390,Ishaan Kapoor,Delhi,North,2025-09-26,Regular
+C00391,Aarav Nair,Jaipur,North,2023-12-03,New
+C00392,Arjun Patel,Bengaluru,South,2024-08-05,New
+C00393,Arjun Reddy,Chennai,South,2025-12-18,Regular
+C00394,Vihaan Nair,Ahmedabad,West,2025-03-27,Regular
+C00395,Ishaan Reddy,Jaipur,North,2023-08-26,New
+C00396,Diya Das,Noida,North,2024-10-11,Regular
+C00397,Ira Gupta,Mumbai,West,2024-11-12,Loyalty Member
+C00398,Kavya Nair,Bengaluru,South,2024-12-19,New
+C00399,Vihaan Das,Hyderabad,South,2023-01-28,Loyalty Member
+C00400,Sai Singh,Hyderabad,South,2023-11-26,Regular
+C00401,Vihaan Nair,Kochi,South,2025-07-29,Regular
+C00402,Aarav Mishra,Gurugram,North,2023-09-23,Regular
+C00403,Aadhya Nair,Hyderabad,South,2023-11-26,New
+C00404,Riya Mehta,Kochi,South,2023-12-21,Regular
+C00405,Ishaan Verma,Pune,West,2023-07-15,Regular
+C00406,Rohan Malhotra,Kolkata,East,2023-06-20,Regular
+C00407,Ananya Verma,Pune,West,2024-01-17,New
+C00408,Aadhya Kapoor,Delhi,North,2025-08-19,Regular
+C00409,Kavya Das,Kochi,South,2023-01-02,New
+C00410,Vihaan Das,Mumbai,West,2023-11-08,Loyalty Member
+C00411,Rohan Das,Bengaluru,South,2023-03-08,New
+C00412,Vivaan Kumar,Bengaluru,South,2024-09-09,New
+C00413,Aanya Mehta,Hyderabad,South,2023-10-03,New
+C00414,Ira Verma,Delhi,North,2025-05-21,New
+C00415,Sara Joshi,Mumbai,West,2024-10-05,Regular
+C00416,Myra Sharma,Jaipur,North,2025-05-12,Loyalty Member
+C00417,Kabir Kapoor,Kochi,South,2024-11-29,Loyalty Member
+C00418,Meera Verma,Delhi,North,2024-04-27,Loyalty Member
+C00419,Kabir Kumar,Hyderabad,South,2025-08-05,New
+C00420,Reyansh Malhotra,Kolkata,East,2024-06-07,New
+C00421,Arjun Mehta,Kochi,South,2025-11-10,Loyalty Member
+C00422,Sai Malhotra,Jaipur,North,2025-12-30,Loyalty Member
+C00423,Sara Joshi,Gurugram,North,2024-10-09,Loyalty Member
+C00424,Diya Nair,Kolkata,East,2025-01-12,Regular
+C00425,Aanya Das,Pune,West,2023-10-09,Regular
+C00426,Meera Reddy,Bengaluru,South,2025-06-15,Regular
+C00427,Kabir Kapoor,Noida,North,2025-01-08,Regular
+C00428,Rohan Singh,Gurugram,North,2025-09-19,Regular
+C00429,Myra Kapoor,Mumbai,West,2023-10-21,Loyalty Member
+C00430,Ananya Kapoor,Jaipur,North,2025-05-16,Regular
+C00431,Aditya Singh,Delhi,North,2024-06-01,New
+C00432,Reyansh Patel,Jaipur,North,2023-07-23,Loyalty Member
+C00433,Reyansh Nair,Gurugram,North,2023-07-08,Regular
+C00434,Kavya Joshi,Delhi,North,2024-09-10,Regular
+C00435,Riya Kumar,Pune,West,2023-12-18,Regular
+C00436,Aarav Reddy,Delhi,North,2023-04-23,New
+C00437,Myra Gupta,Kolkata,East,2024-04-14,Regular
+C00438,Meera Patel,Kochi,South,2024-12-19,Loyalty Member
+C00439,Ira Das,Mumbai,West,2023-12-17,New
+C00440,Diya Kumar,Chennai,South,2025-11-16,New
+C00441,Diya Mishra,Kochi,South,2025-05-07,Regular
+C00442,Kavya Malhotra,Hyderabad,South,2024-07-18,Regular
+C00443,Diya Iyer,Delhi,North,2025-10-25,Regular
+C00444,Aarav Iyer,Pune,West,2024-04-21,Regular
+C00445,Ishaan Verma,Kolkata,East,2023-06-03,Regular
+C00446,Ananya Malhotra,Ahmedabad,West,2023-02-09,Loyalty Member
+C00447,Kabir Reddy,Hyderabad,South,2025-10-28,New
+C00448,Aanya Das,Kochi,South,2025-11-21,Loyalty Member
+C00449,Ananya Malhotra,Kolkata,East,2025-03-24,Loyalty Member
+C00450,Meera Joshi,Hyderabad,South,2023-04-24,Regular
+C00451,Meera Reddy,Kochi,South,2023-11-20,New
+C00452,Aarav Verma,Kochi,South,2023-02-15,Loyalty Member
+C00453,Aadhya Patel,Pune,West,2023-02-26,New
+C00454,Riya Malhotra,Mumbai,West,2023-09-28,New
+C00455,Ananya Singh,Ahmedabad,West,2024-09-21,Regular
+C00456,Rohan Kumar,Kolkata,East,2023-03-14,Regular
+C00457,Meera Iyer,Delhi,North,2025-12-19,Regular
+C00458,Sara Kumar,Ahmedabad,West,2024-05-15,Regular
+C00459,Kabir Malhotra,Noida,North,2023-10-18,New
+C00460,Aanya Kumar,Delhi,North,2024-07-21,Regular
+C00461,Ira Malhotra,Jaipur,North,2025-05-19,Loyalty Member
+C00462,Reyansh Singh,Delhi,North,2023-12-10,Loyalty Member
+C00463,Aadhya Singh,Jaipur,North,2023-02-22,Regular
+C00464,Ananya Verma,Pune,West,2023-02-26,Regular
+C00465,Ishaan Kumar,Mumbai,West,2025-07-26,Loyalty Member
+C00466,Vihaan Malhotra,Kochi,South,2023-05-03,Loyalty Member
+C00467,Aanya Das,Delhi,North,2024-11-30,Regular
+C00468,Sai Patel,Ahmedabad,West,2024-02-27,Regular
+C00469,Ishaan Malhotra,Bengaluru,South,2025-05-05,Loyalty Member
+C00470,Meera Singh,Kochi,South,2023-03-08,Regular
+C00471,Rohan Das,Jaipur,North,2025-09-14,New
+C00472,Sara Nair,Gurugram,North,2025-02-07,Regular
+C00473,Aadhya Verma,Pune,West,2024-05-09,Regular
+C00474,Ishaan Singh,Pune,West,2023-08-16,Loyalty Member
+C00475,Ananya Kumar,Ahmedabad,West,2025-12-10,Loyalty Member
+C00476,Sai Singh,Gurugram,North,2023-11-29,Loyalty Member
+C00477,Aarav Malhotra,Noida,North,2024-06-23,Regular
+C00478,Aanya Gupta,Mumbai,West,2024-03-09,New
+C00479,Diya Sharma,Ahmedabad,West,2023-09-11,Loyalty Member
+C00480,Vivaan Iyer,Delhi,North,2024-04-03,Loyalty Member
+C00481,Aadhya Malhotra,Hyderabad,South,2023-06-16,Regular
+C00482,Arjun Joshi,Gurugram,North,2023-01-02,Regular
+C00483,Meera Verma,Hyderabad,South,2023-11-15,Loyalty Member
+C00484,Aarav Nair,Gurugram,North,2023-05-04,Regular
+C00485,Aadhya Reddy,Pune,West,2024-04-01,Loyalty Member
+C00486,Meera Reddy,Bengaluru,South,2025-08-07,Regular
+C00487,Myra Gupta,Chennai,South,2023-06-28,New
+C00488,Vivaan Singh,Kolkata,East,2023-01-02,Loyalty Member
+C00489,Meera Verma,Gurugram,North,2023-05-03,New
+C00490,Aditya Mehta,Ahmedabad,West,2024-07-12,Loyalty Member
+C00491,Meera Verma,Kochi,South,2023-10-30,Regular
+C00492,Rohan Joshi,Noida,North,2024-06-22,New
+C00493,Vivaan Gupta,Gurugram,North,2023-02-02,Loyalty Member
+C00494,Arjun Das,Ahmedabad,West,2024-01-02,Loyalty Member
+C00495,Rohan Singh,Hyderabad,South,2024-03-27,Regular
+C00496,Aditya Patel,Chennai,South,2024-04-19,Loyalty Member
+C00497,Vihaan Iyer,Delhi,North,2024-08-29,New
+C00498,Kabir Nair,Chennai,South,2025-05-08,Loyalty Member
+C00499,Kavya Das,Kochi,South,2024-05-28,Regular
+C00500,Kavya Patel,Pune,West,2025-07-14,Loyalty Member
+C00501,Sara Mehta,Delhi,North,2024-08-05,Loyalty Member
+C00502,Reyansh Mishra,Ahmedabad,West,2023-10-14,New
+C00503,Reyansh Singh,Kochi,South,2023-09-09,Regular
+C00504,Rohan Mehta,Noida,North,2023-12-21,Regular
+C00505,Aadhya Nair,Hyderabad,South,2024-10-19,New
+C00506,Kavya Sharma,Pune,West,2023-09-24,Loyalty Member
+C00507,Kavya Malhotra,Kolkata,East,2025-10-02,Loyalty Member
+C00508,Vihaan Das,Bengaluru,South,2024-06-11,Loyalty Member
+C00509,Ishaan Joshi,Hyderabad,South,2025-08-07,Regular
+C00510,Ishaan Singh,Bengaluru,South,2025-01-21,Loyalty Member
+C00511,Aditya Gupta,Kochi,South,2024-01-02,Regular
+C00512,Ananya Gupta,Jaipur,North,2023-09-09,Regular
+C00513,Aanya Verma,Noida,North,2025-03-29,Loyalty Member
+C00514,Sai Sharma,Gurugram,North,2023-12-30,Loyalty Member
+C00515,Kabir Reddy,Kochi,South,2023-09-29,New
+C00516,Kavya Reddy,Delhi,North,2025-10-20,Regular
+C00517,Aadhya Sharma,Noida,North,2024-06-14,Regular
+C00518,Ananya Singh,Mumbai,West,2023-02-23,New
+C00519,Aadhya Malhotra,Pune,West,2024-06-28,Regular
+C00520,Reyansh Verma,Ahmedabad,West,2024-05-21,Regular
+C00521,Ananya Mishra,Chennai,South,2025-08-08,Regular
+C00522,Diya Das,Delhi,North,2025-02-21,Loyalty Member
+C00523,Rohan Joshi,Bengaluru,South,2023-07-30,New
+C00524,Ishaan Mehta,Gurugram,North,2023-06-15,Loyalty Member
+C00525,Vihaan Iyer,Hyderabad,South,2024-10-25,Loyalty Member
+C00526,Ananya Joshi,Hyderabad,South,2023-02-22,Regular
+C00527,Arjun Mishra,Kochi,South,2023-12-17,Regular
+C00528,Diya Kapoor,Delhi,North,2023-06-02,Loyalty Member
+C00529,Arjun Verma,Noida,North,2023-01-23,Regular
+C00530,Vivaan Gupta,Kochi,South,2025-10-07,Regular
+C00531,Aadhya Nair,Ahmedabad,West,2023-04-09,Regular
+C00532,Rohan Mishra,Delhi,North,2023-01-11,Regular
+C00533,Aadhya Reddy,Delhi,North,2025-10-23,Loyalty Member
+C00534,Vihaan Reddy,Hyderabad,South,2023-07-27,Loyalty Member
+C00535,Aadhya Malhotra,Kolkata,East,2025-06-17,Regular
+C00536,Riya Singh,Delhi,North,2023-02-04,Loyalty Member
+C00537,Sara Iyer,Pune,West,2023-06-18,Loyalty Member
+C00538,Meera Reddy,Delhi,North,2023-05-02,Loyalty Member
+C00539,Aditya Nair,Kolkata,East,2025-02-15,New
+C00540,Vivaan Mishra,Mumbai,West,2024-11-13,Regular
+C00541,Kabir Malhotra,Jaipur,North,2024-06-07,New
+C00542,Myra Nair,Mumbai,West,2023-09-23,Regular
+C00543,Diya Sharma,Bengaluru,South,2023-04-08,Regular
+C00544,Aditya Patel,Bengaluru,South,2024-09-18,Regular
+C00545,Rohan Nair,Gurugram,North,2023-09-11,Loyalty Member
+C00546,Aarav Das,Mumbai,West,2024-10-11,Regular
+C00547,Diya Nair,Pune,West,2025-01-26,Regular
+C00548,Vivaan Das,Ahmedabad,West,2025-07-23,Loyalty Member
+C00549,Sai Reddy,Kolkata,East,2024-06-27,Regular
+C00550,Sara Joshi,Jaipur,North,2023-01-06,Regular
+C00551,Reyansh Mishra,Gurugram,North,2023-11-05,Regular
+C00552,Diya Gupta,Chennai,South,2025-07-27,Regular
+C00553,Rohan Mehta,Gurugram,North,2024-08-09,Regular
+C00554,Meera Verma,Hyderabad,South,2024-11-12,Regular
+C00555,Meera Kumar,Kochi,South,2024-05-18,Regular
+C00556,Kabir Kumar,Kolkata,East,2023-06-29,Loyalty Member
+C00557,Myra Joshi,Jaipur,North,2025-09-13,New
+C00558,Vihaan Kapoor,Noida,North,2025-04-30,Loyalty Member
+C00559,Sai Kumar,Gurugram,North,2025-12-30,Loyalty Member
+C00560,Kabir Malhotra,Noida,North,2025-07-30,New
+C00561,Meera Singh,Kolkata,East,2023-11-17,New
+C00562,Riya Kapoor,Mumbai,West,2023-10-07,Loyalty Member
+C00563,Aanya Sharma,Pune,West,2023-10-01,New
+C00564,Reyansh Verma,Bengaluru,South,2025-10-07,New
+C00565,Myra Singh,Noida,North,2024-09-04,Loyalty Member
+C00566,Myra Verma,Bengaluru,South,2024-05-14,Loyalty Member
+C00567,Riya Kapoor,Bengaluru,South,2025-12-01,Regular
+C00568,Sara Kapoor,Bengaluru,South,2024-10-25,Regular
+C00569,Aarav Joshi,Ahmedabad,West,2025-09-27,Loyalty Member
+C00570,Aanya Reddy,Kolkata,East,2025-12-19,Loyalty Member
+C00571,Kabir Sharma,Kochi,South,2023-03-29,Regular
+C00572,Ishaan Iyer,Chennai,South,2024-02-02,Loyalty Member
+C00573,Ira Nair,Hyderabad,South,2025-03-18,Loyalty Member
+C00574,Meera Joshi,Mumbai,West,2025-06-13,New
+C00575,Reyansh Das,Mumbai,West,2023-06-13,Regular
+C00576,Vivaan Patel,Chennai,South,2023-12-17,Regular
+C00577,Diya Iyer,Kochi,South,2024-08-25,Loyalty Member
+C00578,Arjun Mishra,Kolkata,East,2025-05-29,New
+C00579,Aadhya Reddy,Noida,North,2023-05-05,New
+C00580,Meera Verma,Delhi,North,2024-10-22,New
+C00581,Aarav Joshi,Delhi,North,2023-11-23,New
+C00582,Kavya Das,Noida,North,2023-08-26,Regular
+C00583,Ananya Malhotra,Delhi,North,2024-07-20,Regular
+C00584,Sai Singh,Mumbai,West,2024-03-31,Regular
+C00585,Aanya Sharma,Chennai,South,2024-11-30,Loyalty Member
+C00586,Aanya Mehta,Kochi,South,2023-12-16,New
+C00587,Aditya Patel,Jaipur,North,2025-06-24,Regular
+C00588,Vihaan Reddy,Delhi,North,2023-03-27,Loyalty Member
+C00589,Vihaan Joshi,Noida,North,2025-08-06,Regular
+C00590,Arjun Reddy,Noida,North,2023-02-02,Regular
+C00591,Aadhya Iyer,Gurugram,North,2025-03-20,Regular
+C00592,Diya Mehta,Noida,North,2024-01-17,Regular
+C00593,Meera Reddy,Bengaluru,South,2024-02-26,New
+C00594,Ananya Reddy,Kochi,South,2023-01-21,Regular
+C00595,Aanya Gupta,Hyderabad,South,2025-02-11,New
+C00596,Riya Patel,Gurugram,North,2023-07-02,Loyalty Member
+C00597,Kavya Iyer,Kolkata,East,2024-12-26,Regular
+C00598,Arjun Kapoor,Gurugram,North,2025-03-08,Regular
+C00599,Aditya Singh,Ahmedabad,West,2025-07-18,New
+C00600,Kabir Kumar,Ahmedabad,West,2025-02-17,Regular
+C00601,Sara Singh,Ahmedabad,West,2023-11-28,New
+C00602,Aarav Singh,Gurugram,North,2025-03-23,Regular
+C00603,Aadhya Kapoor,Jaipur,North,2025-06-27,Loyalty Member
+C00604,Rohan Nair,Delhi,North,2023-12-15,New
+C00605,Meera Kapoor,Gurugram,North,2023-05-17,Regular
+C00606,Arjun Reddy,Kolkata,East,2025-09-06,Regular
+C00607,Aanya Reddy,Hyderabad,South,2023-06-12,New
+C00608,Ira Kumar,Kolkata,East,2024-10-15,Regular
+C00609,Aanya Das,Kochi,South,2023-09-17,Regular
+C00610,Aanya Mehta,Noida,North,2023-05-19,Regular
+C00611,Reyansh Mishra,Noida,North,2025-05-04,Regular
+C00612,Myra Kapoor,Pune,West,2023-06-08,Loyalty Member
+C00613,Ishaan Malhotra,Gurugram,North,2025-01-07,Loyalty Member
+C00614,Ananya Nair,Chennai,South,2025-02-01,Regular
+C00615,Riya Patel,Jaipur,North,2023-03-08,New
+C00616,Kabir Sharma,Ahmedabad,West,2023-07-10,Regular
+C00617,Myra Malhotra,Bengaluru,South,2025-05-23,Regular
+C00618,Meera Malhotra,Hyderabad,South,2024-07-12,Loyalty Member
+C00619,Riya Mehta,Mumbai,West,2023-05-14,New
+C00620,Arjun Reddy,Delhi,North,2025-12-26,Regular
+C00621,Vivaan Gupta,Pune,West,2023-10-19,Regular
+C00622,Sara Nair,Pune,West,2023-01-05,Loyalty Member
+C00623,Myra Kapoor,Delhi,North,2025-10-13,New
+C00624,Vihaan Kapoor,Pune,West,2023-01-19,Regular
+C00625,Reyansh Verma,Ahmedabad,West,2024-08-31,Regular
+C00626,Sara Mishra,Bengaluru,South,2025-12-28,Loyalty Member
+C00627,Reyansh Sharma,Chennai,South,2024-09-27,Regular
+C00628,Arjun Mehta,Chennai,South,2024-10-05,Regular
+C00629,Arjun Verma,Kolkata,East,2024-03-02,Regular
+C00630,Meera Das,Chennai,South,2023-05-20,Regular
+C00631,Diya Kumar,Jaipur,North,2024-09-21,Loyalty Member
+C00632,Kavya Malhotra,Hyderabad,South,2025-09-14,New
+C00633,Riya Joshi,Pune,West,2023-04-11,Loyalty Member
+C00634,Aditya Kapoor,Chennai,South,2025-08-26,Loyalty Member
+C00635,Myra Kapoor,Bengaluru,South,2024-04-01,New
+C00636,Aanya Mehta,Jaipur,North,2024-08-12,Regular
+C00637,Myra Joshi,Bengaluru,South,2023-07-01,Regular
+C00638,Meera Kapoor,Hyderabad,South,2024-11-14,New
+C00639,Aanya Sharma,Gurugram,North,2023-07-20,Regular
+C00640,Kavya Verma,Kochi,South,2023-10-28,Loyalty Member
+C00641,Ananya Joshi,Jaipur,North,2025-03-04,Loyalty Member
+C00642,Aadhya Patel,Noida,North,2023-02-25,Regular
+C00643,Aditya Mehta,Noida,North,2024-05-06,Loyalty Member
+C00644,Vihaan Das,Pune,West,2024-10-16,Regular
+C00645,Vihaan Reddy,Gurugram,North,2023-05-26,Regular
+C00646,Sai Malhotra,Hyderabad,South,2023-11-21,Loyalty Member
+C00647,Aadhya Mishra,Pune,West,2024-01-13,Regular
+C00648,Aarav Sharma,Kolkata,East,2024-12-30,Loyalty Member
+C00649,Myra Das,Kochi,South,2025-12-10,New
+C00650,Vivaan Singh,Noida,North,2025-07-08,New
+C00651,Ira Kumar,Pune,West,2023-07-28,Regular
+C00652,Kabir Gupta,Ahmedabad,West,2023-01-20,Regular
+C00653,Ananya Iyer,Bengaluru,South,2023-02-27,Regular
+C00654,Kabir Nair,Gurugram,North,2024-10-17,Regular
+C00655,Sai Gupta,Kolkata,East,2023-06-21,New
+C00656,Sai Verma,Kolkata,East,2023-09-12,Regular
+C00657,Kavya Kapoor,Gurugram,North,2025-07-21,Regular
+C00658,Riya Nair,Ahmedabad,West,2025-08-19,New
+C00659,Ananya Reddy,Mumbai,West,2025-07-11,Regular
+C00660,Rohan Gupta,Hyderabad,South,2023-10-07,Regular
+C00661,Ananya Reddy,Bengaluru,South,2024-11-12,Regular
+C00662,Diya Reddy,Jaipur,North,2024-11-02,Loyalty Member
+C00663,Diya Joshi,Mumbai,West,2023-07-23,Loyalty Member
+C00664,Aarav Mishra,Bengaluru,South,2024-08-31,Regular
+C00665,Reyansh Mishra,Ahmedabad,West,2024-07-31,New
+C00666,Aadhya Joshi,Jaipur,North,2024-03-11,New
+C00667,Aanya Gupta,Kolkata,East,2025-04-06,New
+C00668,Aditya Reddy,Noida,North,2025-01-15,Regular
+C00669,Ira Nair,Kochi,South,2024-08-08,Regular
+C00670,Aadhya Joshi,Delhi,North,2025-03-09,New
+C00671,Kabir Malhotra,Kochi,South,2025-04-19,Regular
+C00672,Diya Reddy,Ahmedabad,West,2024-09-15,Loyalty Member
+C00673,Aadhya Patel,Ahmedabad,West,2023-10-22,Loyalty Member
+C00674,Riya Kapoor,Delhi,North,2025-04-14,Regular
+C00675,Meera Verma,Ahmedabad,West,2025-02-28,Loyalty Member
+C00676,Ananya Mehta,Jaipur,North,2025-12-17,New
+C00677,Rohan Kumar,Kolkata,East,2023-06-14,Loyalty Member
+C00678,Rohan Singh,Delhi,North,2024-04-06,Regular
+C00679,Aadhya Sharma,Kolkata,East,2025-10-13,New
+C00680,Riya Singh,Kochi,South,2024-07-20,Loyalty Member
+C00681,Aarav Nair,Jaipur,North,2025-11-02,Loyalty Member
+C00682,Vivaan Mishra,Delhi,North,2023-01-14,New
+C00683,Kavya Malhotra,Kochi,South,2023-02-08,Loyalty Member
+C00684,Meera Kapoor,Kochi,South,2025-05-25,Regular
+C00685,Aadhya Das,Bengaluru,South,2024-01-30,Regular
+C00686,Ananya Nair,Gurugram,North,2024-07-26,Regular
+C00687,Ira Patel,Chennai,South,2024-04-15,Loyalty Member
+C00688,Ishaan Nair,Ahmedabad,West,2024-03-24,Loyalty Member
+C00689,Diya Joshi,Pune,West,2025-10-30,Loyalty Member
+C00690,Arjun Joshi,Gurugram,North,2023-04-14,Regular
+C00691,Vihaan Mishra,Kochi,South,2025-04-29,Loyalty Member
+C00692,Vivaan Singh,Gurugram,North,2025-09-05,New
+C00693,Reyansh Sharma,Kochi,South,2024-12-24,Regular
+C00694,Rohan Kumar,Kochi,South,2024-03-10,Loyalty Member
+C00695,Arjun Verma,Delhi,North,2023-06-26,Loyalty Member
+C00696,Aadhya Kumar,Hyderabad,South,2025-01-20,Loyalty Member
+C00697,Kabir Gupta,Jaipur,North,2024-05-30,Regular
+C00698,Ishaan Gupta,Ahmedabad,West,2023-06-14,Loyalty Member
+C00699,Aanya Mishra,Mumbai,West,2024-01-31,New
+C00700,Ira Iyer,Delhi,North,2025-11-23,Loyalty Member
+C00701,Sara Mishra,Kolkata,East,2023-10-19,New
+C00702,Diya Kapoor,Ahmedabad,West,2023-07-16,New
+C00703,Sai Singh,Bengaluru,South,2025-01-20,Regular
+C00704,Meera Das,Bengaluru,South,2023-08-08,Loyalty Member
+C00705,Aadhya Malhotra,Delhi,North,2025-10-08,Loyalty Member
+C00706,Myra Das,Kolkata,East,2025-08-02,New
+C00707,Vihaan Reddy,Mumbai,West,2025-12-17,Regular
+C00708,Aditya Gupta,Kolkata,East,2025-09-30,Regular
+C00709,Ananya Kapoor,Pune,West,2023-09-26,New
+C00710,Riya Kapoor,Pune,West,2023-08-22,Regular
+C00711,Aanya Kumar,Jaipur,North,2024-01-12,Loyalty Member
+C00712,Aditya Das,Kolkata,East,2024-05-31,Regular
+C00713,Riya Sharma,Jaipur,North,2025-08-25,New
+C00714,Diya Iyer,Gurugram,North,2025-03-17,New
+C00715,Vihaan Reddy,Kochi,South,2024-12-09,Regular
+C00716,Ira Joshi,Gurugram,North,2025-08-24,Loyalty Member
+C00717,Diya Nair,Kolkata,East,2024-12-11,Regular
+C00718,Riya Kapoor,Pune,West,2024-02-21,Loyalty Member
+C00719,Ira Verma,Bengaluru,South,2024-03-30,Loyalty Member
+C00720,Ananya Reddy,Ahmedabad,West,2024-07-22,New
+C00721,Aarav Nair,Delhi,North,2023-04-08,Regular
+C00722,Aanya Kumar,Kochi,South,2025-03-26,Regular
+C00723,Kavya Patel,Noida,North,2024-12-19,Loyalty Member
+C00724,Aditya Joshi,Delhi,North,2025-03-15,Loyalty Member
+C00725,Reyansh Mishra,Gurugram,North,2024-08-10,Loyalty Member
+C00726,Aadhya Joshi,Delhi,North,2025-05-11,Regular
+C00727,Kabir Verma,Jaipur,North,2025-11-10,Regular
+C00728,Arjun Sharma,Delhi,North,2024-09-18,New
+C00729,Vivaan Singh,Pune,West,2024-05-03,Regular
+C00730,Meera Verma,Ahmedabad,West,2023-04-26,Regular
+C00731,Vihaan Patel,Jaipur,North,2025-05-06,New
+C00732,Aanya Gupta,Pune,West,2025-09-21,Regular
+C00733,Riya Reddy,Kochi,South,2025-02-08,Loyalty Member
+C00734,Ira Joshi,Gurugram,North,2025-08-10,Regular
+C00735,Aanya Mehta,Bengaluru,South,2025-08-05,New
+C00736,Rohan Malhotra,Jaipur,North,2025-05-27,Loyalty Member
+C00737,Arjun Mishra,Jaipur,North,2024-07-07,New
+C00738,Kabir Joshi,Chennai,South,2023-04-20,Regular
+C00739,Vihaan Kapoor,Jaipur,North,2023-01-04,Loyalty Member
+C00740,Meera Nair,Noida,North,2023-08-13,Loyalty Member
+C00741,Kabir Singh,Gurugram,North,2024-04-19,Regular
+C00742,Vivaan Malhotra,Gurugram,North,2025-03-28,Regular
+C00743,Ira Patel,Ahmedabad,West,2024-05-16,Regular
+C00744,Reyansh Reddy,Hyderabad,South,2023-01-26,New
+C00745,Ananya Kapoor,Gurugram,North,2023-08-20,Loyalty Member
+C00746,Ira Verma,Chennai,South,2025-12-13,Loyalty Member
+C00747,Ira Iyer,Kolkata,East,2025-12-22,Loyalty Member
+C00748,Ira Sharma,Hyderabad,South,2024-02-19,Loyalty Member
+C00749,Riya Singh,Hyderabad,South,2025-06-04,Loyalty Member
+C00750,Ishaan Verma,Delhi,North,2025-03-02,Regular
+C00751,Reyansh Verma,Kochi,South,2025-10-21,Loyalty Member
+C00752,Ishaan Joshi,Delhi,North,2025-09-03,Regular
+C00753,Kavya Sharma,Delhi,North,2024-11-22,New
+C00754,Vivaan Das,Kochi,South,2024-03-10,New
+C00755,Myra Patel,Kolkata,East,2024-11-20,Regular
+C00756,Arjun Das,Pune,West,2023-12-18,Loyalty Member
+C00757,Rohan Patel,Jaipur,North,2024-01-18,Regular
+C00758,Aditya Kapoor,Chennai,South,2024-10-31,New
+C00759,Aanya Patel,Delhi,North,2024-09-20,New
+C00760,Rohan Patel,Jaipur,North,2024-10-01,New
+C00761,Ananya Kumar,Bengaluru,South,2024-02-28,Regular
+C00762,Arjun Das,Kolkata,East,2024-03-26,Regular
+C00763,Kavya Sharma,Kochi,South,2023-01-12,Regular
+C00764,Diya Kapoor,Kochi,South,2024-10-23,Regular
+C00765,Arjun Gupta,Chennai,South,2024-09-25,Regular
+C00766,Aanya Singh,Gurugram,North,2025-10-25,Regular
+C00767,Sai Verma,Ahmedabad,West,2024-07-08,New
+C00768,Aarav Gupta,Pune,West,2024-05-29,Regular
+C00769,Aarav Kumar,Delhi,North,2023-03-16,Regular
+C00770,Ananya Nair,Chennai,South,2023-08-05,New
+C00771,Myra Sharma,Ahmedabad,West,2024-01-07,Loyalty Member
+C00772,Sai Singh,Kochi,South,2024-02-19,Loyalty Member
+C00773,Vivaan Gupta,Mumbai,West,2024-02-03,Loyalty Member
+C00774,Kabir Iyer,Jaipur,North,2024-03-09,New
+C00775,Vihaan Malhotra,Noida,North,2025-04-25,Loyalty Member
+C00776,Aditya Reddy,Kochi,South,2023-05-25,Loyalty Member
+C00777,Reyansh Das,Pune,West,2024-01-01,Loyalty Member
+C00778,Ira Iyer,Delhi,North,2023-06-29,Regular
+C00779,Rohan Verma,Hyderabad,South,2023-12-05,Regular
+C00780,Reyansh Iyer,Noida,North,2025-01-23,Loyalty Member
+C00781,Ananya Nair,Noida,North,2023-02-21,Regular
+C00782,Vivaan Malhotra,Ahmedabad,West,2024-01-09,Loyalty Member
+C00783,Sara Singh,Delhi,North,2023-01-27,Regular
+C00784,Reyansh Joshi,Delhi,North,2025-11-16,Regular
+C00785,Aarav Sharma,Pune,West,2025-03-10,Regular
+C00786,Meera Kapoor,Ahmedabad,West,2023-09-25,New
+C00787,Riya Mehta,Mumbai,West,2023-08-07,Regular
+C00788,Vihaan Reddy,Jaipur,North,2023-04-19,Loyalty Member
+C00789,Reyansh Verma,Kolkata,East,2024-06-04,New
+C00790,Aditya Kumar,Mumbai,West,2025-04-08,Regular
+C00791,Kavya Gupta,Delhi,North,2024-10-04,Loyalty Member
+C00792,Aditya Gupta,Pune,West,2025-08-27,Regular
+C00793,Diya Nair,Jaipur,North,2024-01-14,Regular
+C00794,Rohan Iyer,Gurugram,North,2023-11-02,Loyalty Member
+C00795,Myra Mehta,Pune,West,2024-06-09,New
+C00796,Kavya Iyer,Hyderabad,South,2023-08-11,Regular
+C00797,Aadhya Reddy,Kochi,South,2025-12-09,Loyalty Member
+C00798,Sara Nair,Pune,West,2023-07-24,Regular
+C00799,Kabir Verma,Hyderabad,South,2024-06-10,Loyalty Member
+C00800,Vihaan Kapoor,Pune,West,2024-07-28,Loyalty Member
+C00801,Aanya Malhotra,Mumbai,West,2023-03-04,Loyalty Member
+C00802,Ishaan Mehta,Hyderabad,South,2024-05-30,Loyalty Member
+C00803,Reyansh Mishra,Kolkata,East,2024-05-15,Regular
+C00804,Ananya Mehta,Kochi,South,2023-10-13,Loyalty Member
+C00805,Myra Kapoor,Jaipur,North,2023-05-21,Loyalty Member
+C00806,Reyansh Mehta,Gurugram,North,2023-02-19,Loyalty Member
+C00807,Kabir Malhotra,Kolkata,East,2023-01-10,Regular
+C00808,Vihaan Kumar,Delhi,North,2024-06-13,Regular
+C00809,Kabir Kumar,Chennai,South,2023-04-09,Regular
+C00810,Diya Kumar,Kochi,South,2025-11-21,Regular
+C00811,Arjun Joshi,Mumbai,West,2023-09-27,Regular
+C00812,Meera Verma,Noida,North,2024-12-18,Regular
+C00813,Aditya Kapoor,Jaipur,North,2025-01-10,Loyalty Member
+C00814,Aditya Verma,Hyderabad,South,2024-06-29,Regular
+C00815,Kabir Verma,Gurugram,North,2025-08-29,New
+C00816,Ira Das,Noida,North,2023-05-02,Loyalty Member
+C00817,Arjun Iyer,Mumbai,West,2023-09-15,Loyalty Member
+C00818,Vivaan Nair,Delhi,North,2023-10-05,Loyalty Member
+C00819,Aanya Iyer,Ahmedabad,West,2023-05-29,Loyalty Member
+C00820,Myra Joshi,Kochi,South,2023-11-21,Loyalty Member
+C00821,Vihaan Mehta,Mumbai,West,2023-12-10,New
+C00822,Ira Kapoor,Ahmedabad,West,2025-04-21,Loyalty Member
+C00823,Kabir Kapoor,Delhi,North,2023-11-28,Loyalty Member
+C00824,Vivaan Singh,Ahmedabad,West,2025-08-22,Loyalty Member
+C00825,Kavya Singh,Ahmedabad,West,2025-04-29,Loyalty Member
+C00826,Ira Verma,Delhi,North,2025-09-18,Regular
+C00827,Rohan Iyer,Jaipur,North,2023-04-26,Loyalty Member
+C00828,Ishaan Gupta,Noida,North,2025-12-19,Loyalty Member
+C00829,Meera Patel,Noida,North,2024-11-06,New
+C00830,Vihaan Kumar,Mumbai,West,2025-12-16,Loyalty Member
+C00831,Aanya Kumar,Bengaluru,South,2024-01-26,Loyalty Member
+C00832,Vihaan Das,Bengaluru,South,2025-11-14,New
+C00833,Diya Nair,Pune,West,2024-10-09,Loyalty Member
+C00834,Ananya Das,Delhi,North,2023-03-21,Regular
+C00835,Kabir Kapoor,Noida,North,2024-03-27,Regular
+C00836,Aanya Das,Gurugram,North,2023-06-01,Regular
+C00837,Kavya Nair,Gurugram,North,2025-11-01,Regular
+C00838,Aanya Sharma,Bengaluru,South,2023-12-01,Regular
+C00839,Kavya Mishra,Mumbai,West,2023-09-02,Loyalty Member
+C00840,Diya Sharma,Noida,North,2024-08-31,Loyalty Member
+C00841,Sai Singh,Hyderabad,South,2024-04-12,Regular
+C00842,Aadhya Mishra,Ahmedabad,West,2023-04-17,Loyalty Member
+C00843,Myra Kumar,Noida,North,2025-06-17,Regular
+C00844,Aarav Gupta,Mumbai,West,2025-07-19,New
+C00845,Arjun Nair,Mumbai,West,2025-03-28,Regular
+C00846,Riya Verma,Mumbai,West,2024-11-09,Loyalty Member
+C00847,Arjun Malhotra,Delhi,North,2024-03-18,Regular
+C00848,Aarav Verma,Mumbai,West,2024-08-19,Loyalty Member
+C00849,Sara Patel,Gurugram,North,2024-07-27,Regular
+C00850,Riya Mehta,Ahmedabad,West,2023-07-01,Loyalty Member
+C00851,Reyansh Kumar,Kochi,South,2023-03-31,Regular
+C00852,Sai Kumar,Gurugram,North,2023-10-06,New
+C00853,Aadhya Malhotra,Kochi,South,2024-05-14,Loyalty Member
+C00854,Myra Das,Bengaluru,South,2023-06-26,Loyalty Member
+C00855,Rohan Nair,Hyderabad,South,2023-04-28,New
+C00856,Aditya Mishra,Noida,North,2025-07-26,New
+C00857,Vivaan Gupta,Bengaluru,South,2024-02-17,Regular
+C00858,Sai Das,Mumbai,West,2024-10-04,Regular
+C00859,Kavya Sharma,Jaipur,North,2024-07-30,Regular
+C00860,Aditya Singh,Gurugram,North,2025-03-19,Regular
+C00861,Reyansh Joshi,Kochi,South,2025-03-24,Loyalty Member
+C00862,Kabir Reddy,Kochi,South,2023-11-22,New
+C00863,Kavya Reddy,Delhi,North,2025-07-21,New
+C00864,Kabir Singh,Gurugram,North,2024-02-13,Loyalty Member
+C00865,Ishaan Das,Noida,North,2025-07-07,Loyalty Member
+C00866,Sara Verma,Jaipur,North,2024-03-21,New
+C00867,Ira Mehta,Gurugram,North,2023-05-03,New
+C00868,Vihaan Singh,Noida,North,2025-04-16,Regular
+C00869,Rohan Reddy,Pune,West,2023-02-03,Loyalty Member
+C00870,Sara Joshi,Mumbai,West,2025-04-29,New
+C00871,Aadhya Sharma,Pune,West,2023-02-17,Regular
+C00872,Ananya Mehta,Bengaluru,South,2023-08-16,Regular
+C00873,Kavya Sharma,Delhi,North,2024-10-25,New
+C00874,Aarav Patel,Delhi,North,2025-11-01,New
+C00875,Aadhya Patel,Jaipur,North,2024-03-25,New
+C00876,Arjun Das,Kolkata,East,2023-05-13,Loyalty Member
+C00877,Diya Singh,Kolkata,East,2023-09-14,Regular
+C00878,Myra Verma,Jaipur,North,2025-09-12,Regular
+C00879,Aarav Reddy,Kolkata,East,2025-03-10,Loyalty Member
+C00880,Kabir Gupta,Ahmedabad,West,2023-04-21,Loyalty Member
+C00881,Arjun Mehta,Delhi,North,2024-02-28,Loyalty Member
+C00882,Aanya Malhotra,Noida,North,2023-10-18,Loyalty Member
+C00883,Ananya Iyer,Pune,West,2023-07-15,Regular
+C00884,Aanya Kapoor,Delhi,North,2025-07-20,Loyalty Member
+C00885,Ira Verma,Gurugram,North,2024-11-10,Regular
+C00886,Riya Kapoor,Jaipur,North,2023-07-17,Regular
+C00887,Vivaan Mehta,Mumbai,West,2024-12-16,Regular
+C00888,Aarav Reddy,Bengaluru,South,2024-03-30,Regular
+C00889,Aditya Kapoor,Mumbai,West,2023-03-09,New
+C00890,Myra Nair,Hyderabad,South,2024-05-09,Regular
+C00891,Kabir Nair,Delhi,North,2023-07-23,Regular
+C00892,Riya Malhotra,Jaipur,North,2023-09-27,Loyalty Member
+C00893,Kabir Singh,Kolkata,East,2025-08-24,Loyalty Member
+C00894,Vihaan Mehta,Kochi,South,2025-02-20,Regular
+C00895,Aarav Kumar,Jaipur,North,2023-05-28,Regular
+C00896,Sai Das,Ahmedabad,West,2025-07-25,Regular
+C00897,Kavya Reddy,Kolkata,East,2024-09-23,Loyalty Member
+C00898,Ira Verma,Mumbai,West,2025-08-20,Regular
+C00899,Kabir Kapoor,Mumbai,West,2025-04-01,Regular
+C00900,Vihaan Patel,Ahmedabad,West,2024-01-09,Regular
+C00901,Kabir Nair,Mumbai,West,2024-08-11,Loyalty Member
+C00902,Riya Iyer,Mumbai,West,2024-08-06,Regular
+C00903,Aditya Mehta,Bengaluru,South,2025-03-02,New
+C00904,Aadhya Malhotra,Noida,North,2023-10-01,Regular
+C00905,Myra Patel,Pune,West,2024-01-02,Loyalty Member
+C00906,Myra Das,Jaipur,North,2023-09-27,Regular
+C00907,Sai Verma,Chennai,South,2023-11-22,Regular
+C00908,Sara Joshi,Bengaluru,South,2023-06-27,Regular
+C00909,Vihaan Iyer,Chennai,South,2023-02-10,New
+C00910,Sara Patel,Delhi,North,2025-10-31,New
+C00911,Ira Kumar,Gurugram,North,2023-03-23,Regular
+C00912,Arjun Patel,Bengaluru,South,2025-09-03,Regular
+C00913,Vihaan Gupta,Chennai,South,2023-01-04,New
+C00914,Diya Patel,Kochi,South,2025-05-05,Loyalty Member
+C00915,Sai Nair,Ahmedabad,West,2023-12-28,Regular
+C00916,Arjun Das,Pune,West,2024-07-23,Regular
+C00917,Aditya Gupta,Kolkata,East,2023-11-07,Loyalty Member
+C00918,Meera Reddy,Gurugram,North,2024-06-23,Loyalty Member
+C00919,Rohan Das,Hyderabad,South,2024-05-11,Loyalty Member
+C00920,Rohan Reddy,Ahmedabad,West,2024-08-05,New
+C00921,Rohan Joshi,Noida,North,2024-03-08,Loyalty Member
+C00922,Kavya Kumar,Kolkata,East,2024-08-13,Regular
+C00923,Myra Gupta,Pune,West,2025-06-27,Loyalty Member
+C00924,Reyansh Verma,Delhi,North,2024-04-23,Regular
+C00925,Meera Reddy,Bengaluru,South,2024-02-02,Regular
+C00926,Aadhya Das,Kochi,South,2023-05-25,Regular
+C00927,Diya Nair,Kolkata,East,2024-01-31,Regular
+C00928,Vivaan Kumar,Hyderabad,South,2023-05-19,Loyalty Member
+C00929,Sara Verma,Pune,West,2023-07-20,Regular
+C00930,Aadhya Reddy,Kolkata,East,2025-11-13,Regular
+C00931,Reyansh Sharma,Kolkata,East,2023-04-09,Loyalty Member
+C00932,Vivaan Kumar,Jaipur,North,2024-06-14,Loyalty Member
+C00933,Aadhya Verma,Hyderabad,South,2025-07-06,Loyalty Member
+C00934,Aditya Nair,Ahmedabad,West,2025-11-14,New
+C00935,Kavya Iyer,Pune,West,2023-06-11,Loyalty Member
+C00936,Riya Reddy,Kochi,South,2023-06-29,Regular
+C00937,Rohan Iyer,Delhi,North,2024-02-14,Loyalty Member
+C00938,Vivaan Reddy,Delhi,North,2024-09-01,Loyalty Member
+C00939,Rohan Joshi,Pune,West,2025-11-21,Regular
+C00940,Ishaan Kumar,Kolkata,East,2023-08-17,Regular
+C00941,Kavya Reddy,Jaipur,North,2023-06-30,Regular
+C00942,Sara Gupta,Chennai,South,2023-10-06,Loyalty Member
+C00943,Vivaan Reddy,Noida,North,2025-08-19,Regular
+C00944,Vihaan Das,Pune,West,2023-02-03,Regular
+C00945,Myra Malhotra,Delhi,North,2024-02-23,New
+C00946,Aditya Iyer,Delhi,North,2023-05-11,New
+C00947,Sai Sharma,Kochi,South,2023-06-22,Regular
+C00948,Ananya Malhotra,Delhi,North,2025-10-05,New
+C00949,Reyansh Reddy,Kochi,South,2023-01-02,Regular
+C00950,Sara Iyer,Hyderabad,South,2023-12-20,New
+C00951,Kavya Gupta,Delhi,North,2025-10-03,New
+C00952,Ira Kumar,Hyderabad,South,2024-10-30,Regular
+C00953,Aadhya Mehta,Ahmedabad,West,2023-03-20,Loyalty Member
+C00954,Kabir Das,Pune,West,2024-05-26,New
+C00955,Myra Joshi,Gurugram,North,2025-12-04,New
+C00956,Kavya Sharma,Ahmedabad,West,2024-03-16,New
+C00957,Myra Verma,Chennai,South,2024-08-04,Loyalty Member
+C00958,Myra Verma,Ahmedabad,West,2024-08-08,Regular
+C00959,Aanya Joshi,Kochi,South,2024-12-27,New
+C00960,Riya Singh,Chennai,South,2023-07-25,Loyalty Member
+C00961,Diya Malhotra,Delhi,North,2025-07-12,Loyalty Member
+C00962,Kavya Kapoor,Chennai,South,2025-12-23,Regular
+C00963,Arjun Kumar,Noida,North,2023-06-06,Loyalty Member
+C00964,Aditya Nair,Bengaluru,South,2025-06-19,Regular
+C00965,Arjun Mishra,Kochi,South,2025-06-17,Loyalty Member
+C00966,Ira Singh,Ahmedabad,West,2025-03-26,Regular
+C00967,Riya Gupta,Ahmedabad,West,2024-02-12,Loyalty Member
+C00968,Kavya Malhotra,Hyderabad,South,2024-05-30,New
+C00969,Aditya Singh,Kochi,South,2025-07-12,Loyalty Member
+C00970,Aanya Mehta,Mumbai,West,2023-06-18,Loyalty Member
+C00971,Myra Kapoor,Hyderabad,South,2025-06-30,Regular
+C00972,Arjun Joshi,Pune,West,2025-10-09,New
+C00973,Sara Verma,Pune,West,2025-01-20,Loyalty Member
+C00974,Kabir Iyer,Pune,West,2024-01-11,Regular
+C00975,Ira Sharma,Delhi,North,2024-09-07,Regular
+C00976,Ira Singh,Bengaluru,South,2023-02-25,Regular
+C00977,Sai Patel,Delhi,North,2025-10-21,Loyalty Member
+C00978,Myra Das,Kolkata,East,2024-01-12,New
+C00979,Meera Patel,Chennai,South,2023-03-04,Loyalty Member
+C00980,Ananya Gupta,Kolkata,East,2025-05-23,Regular
+C00981,Arjun Verma,Ahmedabad,West,2024-12-24,New
+C00982,Aadhya Kapoor,Jaipur,North,2024-11-15,Regular
+C00983,Vihaan Iyer,Kolkata,East,2023-03-01,New
+C00984,Aanya Kapoor,Ahmedabad,West,2025-04-05,Regular
+C00985,Sara Sharma,Ahmedabad,West,2024-12-02,Loyalty Member
+C00986,Myra Mishra,Ahmedabad,West,2025-05-22,New
+C00987,Kavya Gupta,Ahmedabad,West,2025-06-29,Regular
+C00988,Kavya Mehta,Hyderabad,South,2023-08-22,Loyalty Member
+C00989,Arjun Gupta,Bengaluru,South,2023-08-20,New
+C00990,Sai Kapoor,Gurugram,North,2025-10-13,Regular
+C00991,Kavya Das,Chennai,South,2024-08-07,Regular
+C00992,Sai Malhotra,Kolkata,East,2024-04-26,Loyalty Member
+C00993,Reyansh Sharma,Bengaluru,South,2023-11-12,Regular
+C00994,Kabir Kumar,Pune,West,2024-12-03,Regular
+C00995,Ananya Reddy,Kolkata,East,2025-04-09,Loyalty Member
+C00996,Kavya Singh,Ahmedabad,West,2023-01-03,Loyalty Member
+C00997,Reyansh Patel,Kolkata,East,2024-08-30,Regular
+C00998,Aanya Patel,Chennai,South,2025-12-28,Regular
+C00999,Aadhya Das,Kochi,South,2023-11-05,New
+C01000,Meera Mishra,Kolkata,East,2023-11-05,Loyalty Member
+C00011,Aanya Patel,Kolkata,East,2023-10-23,Loyalty Member

@@ -1,0 +1,202 @@
+ProductID,ProductName,Category,ProductType,Size,ListPriceINR,UnitCostINR
+P0001,Signature Cold Brew,Beverages,Cold Brew,Venti,561.93,242.63
+P0002,Caramel Muffin,Food,Muffin,Pack,1149.21,576.06
+P0003,Classic Cappuccino,Beverages,Cappuccino,Grande,154.9,89.99
+P0004,Seasonal Gift Card,Merchandise,Gift Card,Pack,648.41,212.78
+P0005,Classic Latte,Beverages,Latte,Grande,175.51,90.17
+P0006,Seasonal Mocha,Beverages,Mocha,Venti,116.53,43.98
+P0007,Caramel Frappuccino,Beverages,Frappuccino,Short,168.28,72.35
+P0008,Signature Croissant,Food,Croissant,Regular,567.5,259.6
+P0009,Caramel Frappuccino,beverages,Frappuccino,Grande,246.6,71.73
+P0010,Caramel Sandwich,Food,Sandwich,Pack,783.54,318.95
+P0011,Iced Cold Brew,Beverages,Cold Brew,Short,454.75,144.13
+P0012,Caramel Coffee Beans,Merchandise,Coffee Beans,Regular,134.88,49.15
+P0013,Iced Mocha,Beverages,Mocha,Venti,345.67,143.1
+P0014,Seasonal Tea,Beverages,Tea,Venti,543.77,222.11
+P0015,Vanilla Latte,Beverages,Latte,Short,387.05,186.48
+P0016,Classic Cappuccino,Beverages,Cappuccino,Venti,102.23,46.53
+P0017,Classic Wrap,Food,Wrap,Pack,492.42,208.41
+P0018,Iced Americano,Beverages,Americano,Venti,146.16,79.83
+P0019,Classic Gift Card,Merchandise,Gift Card,Regular,1137.8,327.2
+P0020,Iced Cookie,Food,Cookie,Regular,769.48,415.29
+P0021,Vanilla Mug,Merchandise,Mug,Regular,427.59,234.22
+P0022,Caramel Sandwich,Food,Sandwich,Pack,802.94,478.48
+P0023, Iced Gift Card ,Merchandise,Gift Card,Regular,1179.49,347.24
+P0024,Classic Tumbler,Merchandise,Tumbler,Pack,600.53,279.83
+P0025,Signature Tumbler,Merchandise,Tumbler,Pack,278.48,109.82
+P0026,Vanilla Frappuccino,Beverages,Frappuccino,Grande,643.08,183.61
+P0027,Classic Tumbler,Merchandise,Tumbler,Pack,608.71,344.84
+P0028,Seasonal Wrap,Food,Wrap,Regular,469.81,208.19
+P0029,Classic Coffee Beans,Merchandise,Coffee Beans,Regular,1176.29,519.28
+P0030,Iced Cookie,Food,Cookie,Pack,261.4,77.79
+P0031,Iced Tea,Beverages,Tea,Venti,619.43,229.42
+P0032,Iced Cappuccino,Beverages,Cappuccino,Short,372.28,115.72
+P0033,Caramel Sandwich,Food,Sandwich,Pack,577.55,344.36
+P0034,Vanilla Americano,Beverages,Americano,Short,371.35,226.59
+P0035,Seasonal Cookie,Food,Cookie,Pack,399.54,180.41
+P0036,Iced Croissant,Food,Croissant,Regular,1048.29,
+P0037,Classic Mocha,Beverages,Mocha,Grande,246.51,140.72
+P0038,Classic Coffee Beans,Merchandise,Coffee Beans,Pack,541.08,249.14
+P0039,Iced Muffin,Food,Muffin,Pack,1174.65,403.38
+P0040,Caramel Muffin,Food,Muffin,Pack,445.51,129.45
+P0041,Vanilla Cake,Food,Cake,Pack,543.18,189.06
+P0042,Iced Coffee Beans,Merchandise,Coffee Beans,Regular,854.44,291.92
+P0043,Seasonal Sandwich,Food,Sandwich,Pack,848.8,313.7
+P0044,Classic Mocha,Beverages,Mocha,Grande,288.92,115.17
+P0045,Vanilla Cold Brew,Beverages,Cold Brew,Grande,491.38,215.53
+P0046,Caramel Cookie,Food,Cookie,Pack,510.2,290.76
+P0047,Signature Gift Card,Merchandise,Gift Card,Pack,737.71,260.19
+P0048,Vanilla Cold Brew,Beverages,Cold Brew,Venti,594.05,235.54
+P0049,Iced Tumbler,Merchandise,Tumbler,Regular,162.1,72.65
+P0050,Seasonal Gift Card,Merchandise,Gift Card,Pack,253.85,91.66
+P0051,Caramel Mug,Merchandise,Mug,Regular,926.88,300.73
+P0052,Caramel Gift Card,Merchandise,Gift Card,Regular,991.5,593.46
+P0053,Vanilla Americano,Beverages,Americano,Grande,429.66,224.08
+P0054,Seasonal Cookie,Food,Cookie,Regular,890.67,550.04
+P0055,Vanilla Tea,Beverages,Tea,Grande,281.26,94.33
+P0056,Seasonal Sandwich,Food,Sandwich,Regular,680.7,314.01
+P0057,Iced Muffin,Food,Muffin,Pack,312.15,152.47
+P0058,Classic Wrap,Food,Wrap,Regular,135.25,80.53
+P0059,Seasonal Mug,Merchandise,Mug,Pack,405.74,119.06
+P0060,Vanilla Cookie,Food,Cookie,Regular,236.91,85.69
+P0061,Caramel Cake,Food,Cake,Pack,415.82,121.07
+P0062,Caramel Coffee Beans,Merchandise,Coffee Beans,Pack,421.7,145.74
+P0063,Signature Cappuccino,Beverages,Cappuccino,Short,302.03,124.12
+P0064,Iced Tea,Beverages,Tea,Short,279.84,109.56
+P0065,Iced Cake,Food,Cake,Pack,216.91,62.59
+P0066,Caramel Mocha,Beverages,Mocha,Grande,203.18,109.16
+P0067,Seasonal Mug,Merchandise,Mug,Pack,1190.07,708.92
+P0068,Caramel Latte,Beverages,Latte,Tall,372.36,171.59
+P0069,Vanilla Tea,Beverages,Tea,Short,266.17,144.57
+P0070,Seasonal Coffee Beans,Merchandise,Coffee Beans,Pack,945.94,536.4
+P0071,Vanilla Latte,Beverages,Latte,Short,591.48,252.96
+P0072,Seasonal Cake,Food,Cake,Pack,948.23,525.49
+P0073,Caramel Muffin,Food,Muffin,Regular,453.14,270.05
+P0074,Signature Cake,Food,Cake,Regular,221.89,137.14
+P0075,Caramel Cake,Food,Cake,Pack,951.7,296.66
+P0076,Signature Mug,Merchandise,Mug,Regular,828.73,241.68
+P0077,Seasonal Tumbler,Merchandise,Tumbler,Regular,951.8,525.14
+P0078,Caramel Mocha,Beverages,Mocha,Tall,427.35,244.16
+P0079,Vanilla Cake,Food,Cake,Regular,225.71,84.37
+P0080,Vanilla Coffee Beans,Merchandise,Coffee Beans,Regular,567.31,167.04
+P0081,Iced Mocha,Beverages,Mocha,Tall,341.0,126.23
+P0082,Seasonal Cookie,Food,Cookie,Regular,544.15,231.01
+P0083,Caramel Mug,Merchandise,Mug,Regular,1069.76,397.86
+P0084,Classic Coffee Beans,Merchandise,Coffee Beans,Regular,1085.24,461.04
+P0085,Iced Espresso,Beverages,Espresso,Grande,273.57,123.34
+P0086,Signature Frappuccino,Beverages,Frappuccino,Short,323.94,119.05
+P0087,Signature Coffee Beans,Merchandise,Coffee Beans,Pack,662.89,219.82
+P0088,Signature Frappuccino,Beverages,Frappuccino,Grande,287.08,135.61
+P0089,Signature Espresso,Beverages,Espresso,Tall,321.51,180.09
+P0090,Caramel Muffin,Food,Muffin,Pack,397.26,242.22
+P0091,Vanilla Cookie,Food,Cookie,Regular,967.5,589.19
+P0092,Signature Coffee Beans,Merchandise,Coffee Beans,Pack,1025.19,336.59
+P0093,Vanilla Cold Brew,Beverages,Cold Brew,Short,384.82,129.99
+P0094,Vanilla Tea,Beverages,Tea,Short,548.21,262.38
+P0095,Classic Wrap,Food,Wrap,Regular,404.53,241.13
+P0096,Seasonal Mocha,Beverages,Mocha,Venti,154.5,72.88
+P0097,Vanilla Wrap,Food,Wrap,Regular,898.72,269.62
+P0098,Caramel Coffee Beans,Merchandise,Coffee Beans,Regular,765.68,426.79
+P0099,Signature Cookie,Food,Cookie,Pack,192.93,87.62
+P0100,Classic Muffin,Food,Muffin,Regular,399.24,201.77
+P0101,Caramel Cookie,Food,Cookie,Pack,248.17,148.55
+P0102,Classic Cold Brew,Beverages,Cold Brew,Short,591.05,202.87
+P0103,Vanilla Muffin,Food,Muffin,Pack,469.13,225.09
+P0104,Signature Tumbler,Merchandise,Tumbler,Regular,895.51,385.52
+P0105,Signature Mocha,Beverages,Mocha,Grande,177.52,55.99
+P0106,Classic Sandwich,Food,Sandwich,Pack,1199.75,521.67
+P0107,Seasonal Mug,Merchandise,Mug,Pack,1062.33,471.68
+P0108,Seasonal Sandwich,Food,Sandwich,Pack,1116.15,345.83
+P0109,Seasonal Cookie,Food,Cookie,Pack,243.14,144.93
+P0110,Classic Tumbler,Merchandise,Tumbler,Regular,1143.29,442.46
+P0111,Seasonal Croissant,Food,Croissant,Pack,503.58,218.47
+P0112,Seasonal Wrap,Food,Wrap,Regular,569.45,196.24
+P0113,Classic Gift Card,Merchandise,Gift Card,Regular,1090.25,399.17
+P0114,Signature Cappuccino,Beverages,Cappuccino,Grande,484.95,146.86
+P0115,Seasonal Gift Card,Merchandise,Gift Card,Regular,161.85,81.29
+P0116,Seasonal Mug,Merchandise,Mug,Pack,486.14,244.46
+P0117,Seasonal Wrap,Food,Wrap,Pack,221.54,133.58
+P0118,Seasonal Coffee Beans,Merchandise,Coffee Beans,Pack,928.4,536.55
+P0119,Signature Gift Card,Merchandise,Gift Card,Pack,267.39,103.98
+P0120,Iced Cold Brew,Beverages,Cold Brew,Grande,296.27,137.07
+P0121,Iced Frappuccino,Beverages,Frappuccino,Grande,256.25,77.03
+P0122,Vanilla Tumbler,Merchandise,Tumbler,Pack,518.39,190.01
+P0123,Seasonal Mug,Merchandise,Mug,Regular,536.79,186.25
+P0124,Caramel Wrap,Food,Wrap,Pack,402.85,198.67
+P0125,Seasonal Mug,Merchandise,Mug,Regular,539.21,214.3
+P0126,Classic Tumbler,Merchandise,Tumbler,Regular,696.62,377.87
+P0127,Caramel Croissant,Food,Croissant,Pack,529.18,253.88
+P0128,Signature Cake,Food,Cake,Regular,1163.5,532.27
+P0129,Iced Gift Card,Merchandise,Gift Card,Regular,1102.58,606.25
+P0130,Iced Americano,Beverages,Americano,Grande,122.88,52.33
+P0131,Vanilla Cookie,Food,Cookie,Pack,874.18,538.04
+P0132,Seasonal Tea,Beverages,Tea,Grande,346.69,108.01
+P0133,Seasonal Cake,Food,Cake,Pack,726.97,234.83
+P0134,Vanilla Wrap,Food,Wrap,Regular,931.64,421.67
+P0135,Vanilla Coffee Beans,Merchandise,Coffee Beans,Regular,901.31,518.78
+P0136,Iced Cake,Food,Cake,Regular,799.26,390.22
+P0137,Signature Gift Card,Merchandise,Gift Card,Pack,934.94,529.58
+P0138,Vanilla Cookie,Food,Cookie,Pack,1058.58,309.51
+P0139,Vanilla Frappuccino,Beverages,Frappuccino,Venti,401.47,141.93
+P0140,Vanilla Mocha,Beverages,Mocha,Short,571.79,286.16
+P0141,Signature Tumbler,Merchandise,Tumbler,Pack,573.84,197.38
+P0142,Caramel Coffee Beans,Merchandise,Coffee Beans,Pack,486.15,252.45
+P0143,Caramel Mocha,Beverages,Mocha,Grande,204.44,63.75
+P0144,Classic Americano,Beverages,Americano,Tall,587.3,317.04
+P0145,Classic Mug,Merchandise,Mug,Regular,335.78,127.39
+P0146,Iced Frappuccino,Beverages,Frappuccino,Grande,634.36,330.36
+P0147,Classic Sandwich,Food,Sandwich,Regular,779.36,299.74
+P0148,Iced Mug,Merchandise,Mug,Pack,443.06,130.01
+P0149,Vanilla Muffin,Food,Muffin,Regular,906.76,267.2
+P0150,Classic Croissant,Food,Croissant,Regular,125.25,66.14
+P0151,Caramel Mug,Merchandise,Mug,Regular,1144.78,614.99
+P0152,Signature Wrap,Food,Wrap,Regular,629.37,280.23
+P0153,Classic Wrap,Food,Wrap,Pack,591.03,230.73
+P0154,Vanilla Mocha,Beverages,Mocha,Short,382.16,163.03
+P0155,Caramel Muffin,Food,Muffin,Pack,766.02,448.4
+P0156,Caramel Gift Card,Merchandise,Gift Card,Pack,1194.61,366.47
+P0157,Iced Cold Brew,Beverages,Cold Brew,Tall,305.42,104.28
+P0158,Iced Cake,Food,Cake,Pack,500.29,188.98
+P0159,Vanilla Espresso,Beverages,Espresso,Grande,187.74,101.34
+P0160,Seasonal Mug,Merchandise,Mug,Regular,655.99,388.7
+P0161,Seasonal Gift Card,Merchandise,Gift Card,Pack,155.2,46.99
+P0162,Iced Sandwich,Food,Sandwich,Pack,555.54,170.71
+P0163,Signature Cappuccino,Beverages,Cappuccino,Tall,237.13,145.89
+P0164,Vanilla Wrap,Food,Wrap,Regular,345.68,120.08
+P0165,Vanilla Wrap,Food,Wrap,Pack,739.53,332.29
+P0166,Vanilla Croissant,Food,Croissant,Regular,746.87,304.79
+P0167,Classic Coffee Beans,Merchandise,Coffee Beans,Regular,1012.9,331.34
+P0168,Vanilla Tumbler,Merchandise,Tumbler,Pack,582.66,299.79
+P0169,Iced Frappuccino,Beverages,Frappuccino,Grande,576.21,233.74
+P0170,Seasonal Mocha,Beverages,Mocha,Grande,407.94,123.81
+P0171,Signature Americano,Beverages,Americano,Tall,185.38,56.26
+P0172,Signature Tea,Beverages,Tea,Grande,497.61,188.07
+P0173,Caramel Gift Card,Merchandise,Gift Card,Regular,901.64,272.81
+P0174,Seasonal Tumbler,Merchandise,Tumbler,Pack,1051.55,593.16
+P0175,Seasonal Coffee Beans,Merchandise,Coffee Beans,Regular,216.04,62.24
+P0176,Seasonal Espresso,Beverages,Espresso,Tall,121.52,69.29
+P0177,Vanilla Mug,Merchandise,Mug,Regular,373.48,174.2
+P0178,Iced Gift Card,Merchandise,Gift Card,Regular,580.34,319.46
+P0179,Seasonal Tea,Beverages,Tea,Short,363.78,163.78
+P0180,Caramel Sandwich,Food,Sandwich,Pack,1188.22,393.35
+P0181,Seasonal Gift Card,Merchandise,Gift Card,Pack,1017.16,302.7
+P0182,Iced Tea,Beverages,Tea,Grande,357.48,207.82
+P0183,Classic Frappuccino,Beverages,Frappuccino,Grande,462.52,237.26
+P0184,Classic Mug,Merchandise,Mug,Regular,404.38,170.78
+P0185,Seasonal Croissant,Food,Croissant,Regular,515.91,235.92
+P0186,Classic Latte,Beverages,Latte,Venti,348.85,136.45
+P0187,Caramel Muffin,Food,Muffin,Regular,449.92,164.35
+P0188,Signature Gift Card,Merchandise,Gift Card,Pack,514.25,170.21
+P0189,Classic Muffin,Food,Muffin,Pack,1061.87,514.71
+P0190,Classic Mug,Merchandise,Mug,Pack,264.49,136.45
+P0191,Iced Frappuccino,Beverages,Frappuccino,Tall,564.69,203.72
+P0192,Vanilla Espresso,Beverages,Espresso,Short,174.34,49.33
+P0193,Seasonal Cake,Food,Cake,Pack,171.03,92.21
+P0194,Signature Wrap,Food,Wrap,Regular,1186.16,350.22
+P0195,Caramel Wrap,Food,Wrap,Pack,927.92,282.49
+P0196,Iced Tumbler,Merchandise,Tumbler,Regular,759.5,407.9
+P0197,Caramel Cookie,Food,Cookie,Regular,507.94,144.11
+P0198,Seasonal Latte,Beverages,Latte,Short,423.31,261.19
+P0199,Caramel Tea,Beverages,Tea,Short,234.27,80.69
+P0200,Signature Tumbler,Merchandise,Tumbler,Pack,253.84,119.0
+P0006,Seasonal Mocha,Beverages,Mocha,Venti,116.53,43.98
